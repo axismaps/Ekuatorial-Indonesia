@@ -9,7 +9,13 @@
         "location": "Off the port of Merak on Java Island, Indonesia",
         "incident_date": "2011-01-28"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.258339,
+          2.14981
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -19,7 +25,13 @@
         "location": "15 miles SE of Bulukumba, South Sulawesi, Indonesia",
         "incident_date": "2010-08-04"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.258339,
+          2.14981
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -29,7 +41,13 @@
         "location": "Off Indonesia",
         "incident_date": "2010-03-01"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.258339,
+          2.14981
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -39,7 +57,13 @@
         "location": "Off the coast of Indonesia, in the Banda sea",
         "incident_date": "2003-06-18"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.258339,
+          2.14981
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -49,7 +73,13 @@
         "location": "Off Belawan, Sumatera Island, Indonesia",
         "incident_date": "2002-02-07"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.258339,
+          2.14981
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -59,7 +89,13 @@
         "location": "Off Batam Island, Indonesia",
         "incident_date": "2002-01-27"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.258339,
+          2.14981
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -69,7 +105,13 @@
         "location": "Off Bawean Island, Indonesia",
         "incident_date": "1997-01-28"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.258339,
+          2.14981
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -79,7 +121,13 @@
         "location": "W. of Borneo, Indonesia",
         "incident_date": "1997-01-10"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.258339,
+          2.14981
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -89,7 +137,13 @@
         "location": "In Indonesia/Malaysia area",
         "incident_date": "1900-01-01"
       },
-      "geometry": null
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.258339,
+          2.14981
+        ]
+      }
     },
     {
       "type": "Feature",

@@ -1,0 +1,386 @@
+ID,LAT,LON,REGION,SUBREGION,COUNTRY,LOCATION,MONTH,YEAR,DEPTH,SEVERITY,BLEACHING,SURVEY_TYP,WATER_TEMP,SOURCE,REFERENCE,COUNTRY
+"29,293",-8.15,110.583,Asia,Southeast Asia,Indonesia,"Tuo Village, Temotu",11,"2,011",6 meter,-1,Severity Unknown,,29 degree C,"Reef Check, submitted by Arief Setyanto. Reef ID : NSWatuLawang",,IDN
+"29,432",-10.255,166.259,Pacific,Southwest Pacific,Solomon Islands,Tuo village,8,"2,011",2m,0,No Bleaching,Reef Check survey,"Air temperature 30 deg C, water temperature 28 deg C",Reef Check submitted by 'Noelle van der Straaten,,SLB
+"29,433",-10.269,166.279,Pacific,Southwest Pacific,Solomon Islands,Tuo village,8,"2,011",2m 30s,0,No Bleaching,Reef Check survey,"Air temperature 30 deg C, water temperature 28 deg C",Reef Check submitted by Noelle van der Straaten,,SLB
+"29,434",-10.269,166.277,Pacific,Southwest Pacific,Solomon Islands,"Tuo, Fenualoa Island",8,"2,011",1.5,0,No Bleaching,Reef Check survey,,Reef Check submitted by Noelle van der Straaten,,SLB
+"6,792",-4.96,119.28,Asia,Southeast Asia,Indonesia,Badi Island,5,"2,010",2 - 25m,3,HIGH,,,aku_edow@yahoo.com,,IDN
+"6,779",-8.364067,116.0879,Asia,Southeast Asia,Indonesia,"Chill Out Reef Gili Air, Lombok",4,"2,010",3m,1,Low,"Rapid assessment, time swimmed",31 Celcius,"Naneng Setiasih, Reef Check Foundation Indonesia",,IDN
+"7,202",0.77,120.14,Asia,Southeast Asia,Indonesia,"Lebo, Parigi Moutong",5,"2,010",1-5m,2,Medium,Fortuitous observation,> 30 deg C,"Abigail Moore.  LP3L Talinti 
+E-mail : abigail2105@yahoo.com",,IDN
+"7,208",1,104.79,Asia,Southeast Asia,Indonesia,Mapor Island,7,"2,010",,-1,Severity Unknown,,,"Mr Andrew Dixon, Nikoi island, Tanjung Pinang,Indonesia",,IDN
+"29,351",-3.09,135.56,Asia,Southeast Asia,Indonesia,"Nabire, Papua",7,"2,010",5m,0,No Bleaching,,Air temperature 32 Deg C water temperatue 31 Deg C,Reef Check submitted by Miriam Reininger,,IDN
+"29,352",-3.09,135.563,Asia,Southeast Asia,Indonesia,"Nabire, Papua",7,"2,010",12m,0,No Bleaching,,"Air temperature 32 Deg C, water temperature 31 Deg C",Reef Check submitted by Miriam Reininger,,IDN
+"29,353",-2.94,135.66,Asia,Southeast Asia,Indonesia,"Nabire, Papua",7,"2,010",5m,0,No Bleaching,,"Air temperature 30 Deg C, water temperature 31 Deg C",Reef Check submitted by Miriam Reininger,,IDN
+"29,354",-2.941,135.66,Asia,Southeast Asia,Indonesia,"Nabire, Papua",7,"2,010",12m,0,No Bleaching,,"Air temperature  30 Deg C, Water temperature 31 Deg C",Reef Check submitted by Miriam Reininger,,IDN
+"29,355",-3.1,135.62,Asia,Southeast Asia,Indonesia,"Nabire, Papua",7,"2,010",5 M,0,No Bleaching,,"Air temperature 32 Deg C, water temperature 31",Reef Check submitted by Miriam Reininger,,IDN
+"29,356",-3.1,135.62,Asia,Southeast Asia,Indonesia,"Nabire, Papua",7,"2,010",12m,0,No Bleaching,,"Air temperature 32 Deg C, water temperature 31 Deg C",Reef Check submitted by Miriam Reininger,,IDN
+"7,210",1.05,104.71,Asia,Southeast Asia,Indonesia,Nikoi Island,7,"2,010",,-1,Severity Unknown,,,"Mr Andrew Dixon,  Nikoi island, Tanjung Pinang,Indonesia",,IDN
+"29,411",2.495,104.487,Asia,Southeast Asia,Malaysia,Aur islands,5,"2,010",5m,0,No Bleaching,Reef Check survey,,Reef Check submitted by Julian hyde,,MYS
+"29,412",2.459,104.487,Asia,Southeast Asia,Malaysia,Aur islands,5,"2,010",10m,0,No Bleaching,Reef Check survey,,Reef check submitted by Julian hyde,,MYS
+"6,781",4.3431,113.89844,Asia,Southeast Asia,Malaysia,Eve's Garden,5,"2,010",6m,1,Low,Reef Check survey,31 Celcius,Peter Heyes (pjheyes@gmail.com),,MYS
+"29,382",6.5,117.9,Asia,Southeast Asia,Malaysia,lankayan,7,"2,010",5m 30s,0,No Bleaching,,,Reef Check submitted by julian Hyde,,MYS
+"29,384",6.5,117.9,Asia,Southeast Asia,Malaysia,Lankayan,7,"2,010",5m,0,No Bleaching,,,Reef Check submitted by Julian Hyde,,MYS
+"29,385",6.5,117.9,Asia,Southeast Asia,Malaysia,lankayan,8,"2,010",10,0,No Bleaching,,,Reef Check submitted by Julian Hyde,,MYS
+"29,383",6.5,117.9,Asia,Southeast Asia,Malaysia,Lankayan islands,5,"2,010",9m,0,No Bleaching,,,Reef Check submitted by Julian Hydes,,MYS
+"29,377",5.2,103.268,Asia,Southeast Asia,Malaysia,Marang,9,"2,010",5m,0,No Bleaching,,"Air  temperature 33 Deg C, water temperature 31 Deg C",Reef Check submitted by Julian Hyde,,MYS
+"29,370",5.23,103.26,Asia,Southeast Asia,Malaysia,Marang,9,"2,010",8m 30s,0,No Bleaching,,"Air temperature 33 Deg C, water temperature 31 Deg C",Reef Check submitted by Julian Hyde,,MYS
+"29,371",5.23,103.26,Asia,Southeast Asia,Malaysia,Marang,9,"2,010",8m 30s,0,No Bleaching,,"Air temperature 33 Deg C, water temperature 31 Deg C",Reef Check submitted by Julian Hyde,,MYS
+"29,372",5.226,103.269,Asia,Southeast Asia,Malaysia,Marang,9,"2,010",8m,0,No Bleaching,,"Air temperature 33 Deg C, water temperature 31 Deg C",Reef Check submitted by Julian Hyde,,MYS
+"29,366",4.34,113.897,Asia,Southeast Asia,Malaysia,Miri,4,"2,010",6m,0,No Bleaching,,"Air temperature 32 Deg C, water tempereture 30 Deg C",Reef Check submitted by Peter Heyes,,MYS
+"29,367",4.27,113.814,Asia,Southeast Asia,Malaysia,Miri,4,"2,010",9m,0,No Bleaching,,"Air temperature 32 Deg C, water temperature 30 Deg C",Reef Check submitted by Peter Heyes,,MYS
+"29,368",4.293,113.826,Asia,Southeast Asia,Malaysia,Miri,3,"2,010",12 meter,0,No Bleaching,,"Air temperature 32 Deg C, wter temperature 29 Deg C",Reef Check submitted by Peter Heyes,,MYS
+"29,369",4.293,113.826,Asia,Southeast Asia,Malaysia,Miri,5,"2,010",12m,0,No Bleaching,,"Air temperature 32 Deg C, Water temperature 30 Deg C",Reef Check submitted by Peter Heyes,,MYS
+"29,388",4.273,114.814,Asia,Southeast Asia,Malaysia,Miri,2,"2,010",8m,0,No Bleaching,,"Air temperature 32 Deg C, water temperature 27 deg C",Reef Check submitted by Peter Heyes,,MYS
+"29,389",4.275,114.817,Asia,Southeast Asia,Malaysia,Miri,2,"2,010",10m,0,No Bleaching,,"Air temperature 32 Deg C, water temperature 27 Deg C",Reef Check submitted by Peter Heyes,,MYS
+"29,300",4.27,113.81,Asia,Southeast Asia,Malaysia,Miri Sarawak,6,"2,010",10m,-1,Severity Unknown,,Air temperature : 31 Deg C and water temperature 30 Deg C,"Reef Check, Submitted by Peter Heyes, Reef ID : 113.49.0E.4.16.35N",,MYS
+"6,893",4.34,113.9,Asia,Southeast Asia,Malaysia,Miri Sarawak,4,"2,010",6,-1,Severity Unknown,Reef Check protocol,"Air temp 32 deg C, Water temp 30 deg C","Reef Check, Submitted by Peter Heyes. Site ID : 113.53.51E.4.20.36N",,MYS
+"6,897",4.27,113.81,Asia,Southeast Asia,Malaysia,Miri sarawak,1,"2,010",8,3,HIGH,Reef Check protocol,"Air temp 32 Deg C, Water temp 29 Deg C","Reef Check, Submitted byPeter Heyes. Site ID : 114.48.52E.4.16.25N",,MYS
+"6,898",4.27,113.81,Asia,Southeast Asia,Malaysia,Miri Sarawak,7,"2,010",8m,-1,Severity Unknown,Reef check protocol,"Air temp : 31 Deg C, water temp : 30 Deg C","Reef Check, Submitted by Peter Heyes. Site ID 113.48.53E.4.16.23N",,MYS
+"6,900",4.28,113.82,Asia,Southeast Asia,Malaysia,Miri Sarawak,6,"2,010",10,-1,Severity Unknown,Reef check protocol,"Air temp : 31 deg C, water temp 30 deg C","Reef Check, Submitted by Peter Heyes. Site ID : 113.49.0E.4.16.35N",,MYS
+"6,901",4.29,113.82,Asia,Southeast Asia,Malaysia,Miri Sarawak,7,"2,010",11,-1,Severity Unknown,Reef  Check protocol,"Air temp 31 Deg C, water temp 30 Deg C","Reef Check, Submitted by Peter Heyes. Site ID : 113.49.11E.4.17.14N",,MYS
+"6,902",4.34,113.9,Asia,Southeast Asia,Malaysia,Miri Sarawak,5,"2,010",6,-1,Severity Unknown,Reef check protocol,"Air temp 32 Deg C, water temp 31 Deg C","Reef Check, Submitted by Peter Heyes. Site ID ; 113.53.51E.4.20.36N",,MYS
+"6,903",4.27,113.81,Asia,Southeast Asia,Malaysia,Miri Sarawak,6,"2,010",9,-1,Severity Unknown,Reef Check Protocol,"Air temp 32 Deg C, water temp 30 deg C","Reef Check, Submitted by Peter Heyes. Site ID : 113.48.53E.4.16.23N",,MYS
+"29,295",4.27,114.81,Asia,Southeast Asia,Malaysia,Miri Sarawak,1,"2,010",8m,-1,Severity Unknown,,"Air : 32 Deg C, water 28 Degree C","Reef Check, submitted by Peter Heyes. Reef ID: 114.48.52E.4.16.25N",,MYS
+"29,303",4.34,113.89,Asia,Southeast Asia,Malaysia,Miri sarawak,5,"2,010",6 meter,-1,Severity Unknown,,"Air temp 32 Deg C, water temp 31 deg C","Reef Check, submitted by Peter Heyes, Reef ID: 113.53.51E.4.20.36N",,MYS
+"29,304",4.27,113.81,Asia,Southeast Asia,Malaysia,Miri Sarawak,5,"2,010",9 meter,-1,Severity Unknown,,Air temp 32 deg C and water temp 30 Deg C,"Reef Check, submitted by Peter Heyes. Reef ID: 113.48.53E.4.16.23N",,MYS
+"29,294",4.29,113.81,Asia,Southeast Asia,Malaysia,"Miri,  sarawak",3,"2,010",11m,-1,Severity Unknown,,"Air temperature : 32, Water temperature : 30 Degree C","Reef Check, submitted by Peter Heyes. Reef ID : 113.49.33E.4.17.33N",,MYS
+"29,298",4.292,113.82,Asia,Southeast Asia,Malaysia,"Miri, sarawak",7,"2,010",11m,-1,Severity Unknown,,Air temp : 31 Deg C Water temp 30 Deg C,Reef Check submitted by Peter heyes. Reef ID113.49.33E.4.17.33N,,MYS
+"29,299",4.34,113.89,Asia,Southeast Asia,Malaysia,"Miri, sarawak",7,"2,010",6 meter,-1,Severity Unknown,,"Air temp : 32 Deg C, water temp 30 Deg C","Reef Check submitted by Peter Heyes, Reef ID : 113.53.51E.4.20.36N",,MYS
+"29,305",4.28,113.81,Asia,Southeast Asia,Malaysia,"Miri, sarawak",5,"2,010",11 meter,-1,Severity Unknown,,"Air temperature ; 32 Deg C, water temperature 30 Deg C","ReefCheck, submitted by Peter Heyes. Reef ID: 113.49.11E.4.17.14N",,MYS
+"6,904",4.29,113.82,Asia,Southeast Asia,Malaysia,"Miri, sarawak",5,"2,010",11,-1,Severity Unknown,Reef Check protocol,"Air temp 32 Deg C, Water temp 30 Deg C","Reef Check, submitted by Peter heyes. Site ID : 113.49.11E.4.17.14N",,MYS
+"6,883",4.29,113.83,Asia,Southeast Asia,Malaysia,"Miri, Sarawak",6,"2,010",11,-1,Severity Unknown,Reef Check protocol,"Air temp -  31 Deg C, water temp - 30 deg C","Reef Check, submitted by Peter Heyes ( Site ID: 113.49.33E.4.17.33N )",,MYS
+"6,884",4.27,113.81,Asia,Southeast Asia,Malaysia,"Miri, Sarawak",7,"2,010",8,3,HIGH,Reef Check Protocol,"Air temp - 31 Deg C, water temp 30 deg C","Reef Check, submitted by Peter Heyes ( Site ID : 113.48.53E.4.16.23N)",,MYS
+"6,885",4.27,113.81,Asia,Southeast Asia,Malaysia,"Miri, Sarawak",6,"2,010",9,3,HIGH,Reef check protocol,"air temp 31 deg C, water temp 30 deg C","Reef Check, submitted by Peter Heyes. ( Site ID 113.48.53E.4.16.23N)",,MYS
+"6,892",4.29,113.83,Asia,Southeast Asia,Malaysia,"Miri, Sarawak",4,"2,010",11,-1,Severity Unknown,Reef Check Protocol,"Air temp 32 Deg C, water temp 30 deg C","Reef Check, Submitted by  Peter Heyes, [Site ID :113.49.33E.4.17.33N]",,MYS
+"29,301",4.287,113.81,Asia,Southeast Asia,Malaysia,"Miri, sarawak",7,"2,010",11m,-1,Severity Unknown,,Air temp 31 deg C and water temp 30 Deg C,"Reef Check, submitted by Peter Heyes. Reef ID 113.49.11E.4.17.14N",,MYS
+"29,365",4.287,113.819,Asia,Southeast Asia,Malaysia,"Miri, Sarawak",4,"2,010",11m,0,No Bleaching,,,Reef Check submitted by Peter Heyes,,MYS
+"6,899",4.34,113.9,Asia,Southeast Asia,Malaysia,"Mirii, Sarawak",7,"2,010",6,-1,Severity Unknown,Reef Check Protocol,"Air temp ; 32 Deg c, Water temp : 30 Deg C","Reef Check, Submitted by Peter Heyes. Site ID : 113.53.51E.4.20.36N",,MYS
+"29,402",5.952,102.708,Asia,Southeast Asia,Malaysia,Perhentian Islands,9,"2,010",5m,0,No Bleaching,Reef Check survey,,Reefcheck submitted by Julian Hyde,,MYS
+"29,403",5.952,102.708,Asia,Southeast Asia,Malaysia,perhentian Islands,9,"2,010",5m,0,No Bleaching,Reef Check survey,,Reef Check submitted by Julian Hyde,,MYS
+"29,404",5.923,102.758,Asia,Southeast Asia,Malaysia,Perhentian islands,9,"2,010",5m,0,No Bleaching,Reef Check survey,,Reef check submitted by Julian hyde,,MYS
+"29,405",5.916,102.753,Asia,Southeast Asia,Malaysia,Perhentian islands,9,"2,010",9m,0,No Bleaching,Reef Check survey,,Reef Check submitted by Julian hyde,,MYS
+"29,378",6.48,117.911,Asia,Southeast Asia,Malaysia,Sandakan,9,"2,010",14m 6s,0,No Bleaching,,"Air temperature 32 Deg C, water temperature 30 Deg C",Reef Check submitted by Julian Hyde,,MYS
+"29,379",6.5,117.92,Asia,Southeast Asia,Malaysia,sandakan,8,"2,010",12m 12s,0,No Bleaching,,,Reef Check submitted by Julian Hyde,,MYS
+"29,380",6.48,117.89,Asia,Southeast Asia,Malaysia,Sandakan,6,"2,010",13.1,0,No Bleaching,,"Air temperature 32 Deg C, water temperature 30 drg C",Reef Check submitted by Julian Hyde,,MYS
+"29,381",6.55,117.922,Asia,Southeast Asia,Malaysia,sandakan,8,"2,010",10m 42s,0,No Bleaching,,"Air temperature 32 Deg C, water temperature 30 Deg C",Reef Check submitted by Julian Hyde,,MYS
+"29,386",6.52,117.929,Asia,Southeast Asia,Malaysia,Sandakan,7,"2,010",14m,0,No Bleaching,,"Air temperature 32 Deg C, water tepmperature 30 Deg C",Reef Check submitted by Julian Hyde,,MYS
+"29,387",6.513,117.905,Asia,Southeast Asia,Malaysia,sandakan,6,"2,010",14m 30s,0,No Bleaching,,"Air temperature 32 Drg C, water temperature 30 Deg C",Reef Check submitted by Julian Hyde,,MYS
+"29,392",4.229,118.68,Asia,Southeast Asia,Malaysia,Semporna,6,"2,010",10m,0,No Bleaching,,"Air temperature 33 Deg C, water temperature 30 Deg C",Reef Check submitted by Julian Hyde,,MYS
+"29,393",4.225,118.685,Asia,Southeast Asia,Malaysia,Semporna,6,"2,010",5m,0,No Bleaching,,"Air temperature 33 Deg C, water temperature 30 Deg C",Reef Check submitted by Julian Hyde,,MYS
+"29,394",4.226,118.684,Asia,Southeast Asia,Malaysia,Semporna,6,"2,010",4m,0,No Bleaching,,"Air temperature 33 Deg C, water temperature 30 Deg C",Reef check submitted by Julian Hyde,,MYS
+"29,395",4.312,118.876,Asia,Southeast Asia,Malaysia,Semporna,6,"2,010",5m,0,No Bleaching,Reef Check survey,"Air temperature 33 Deg C, water temperature 30 Deg C",Reef Check submitted by Julian Hyde,,MYS
+"29,396",4.21,118.678,Asia,Southeast Asia,Malaysia,Semporna,6,"2,010",5m,0,No Bleaching,Reef Check survey,"Air temperature 33 Deg C, water temperature 30 Deg C",Reef Check submitted by Julian hyde,,MYS
+"29,397",4.477,118.945,Asia,Southeast Asia,Malaysia,Semporna,6,"2,010",7m,0,No Bleaching,Reef Check survey,"Air temperature 32 Deg C, water temperature 31 Deg C",Reef Check submitted by Julian Hyde,,MYS
+"29,398",4.57,118.956,Asia,Southeast Asia,Malaysia,Semporna,6,"2,010",5m,0,No Bleaching,Reef Check survey,"Air temperature 31  deg C, water temperature 31 Deg c",Reef check submitted by Julian  Hyde,,MYS
+"29,399",4.582,118.9145,Asia,Southeast Asia,Malaysia,Semporna,6,"2,010",10m,0,No Bleaching,Reef Check survey,"Air temperature 310 deg C, water tremperature 31 Deg C",Reef Check submitted by Julian Hyde,,MYS
+"29,400",4.587,118.945,Asia,Southeast Asia,Malaysia,Semporna,6,"2,010",5m,0,No Bleaching,reefcheck survey,"Air temperature 32 deg c, water temperature 31 deg c",Reefcheck submitted by Julian Hyde,,MYS
+"29,401",4.557,118.924,Asia,Southeast Asia,Malaysia,Semporna,6,"2,010",5m,0,No Bleaching,Reef Check survey,"Air temperature 31 Deg C, water temperature 31 deg C",Reef Check submitted by Julian Hyde,,MYS
+"29,390",4.577,118.947,Asia,Southeast Asia,Malaysia,Semporna,6,"2,010",10m,0,No Bleaching,,,Reef Check submitted by Julian Hyde,,MYS
+"29,391",4.308,118.866,Asia,Southeast Asia,Malaysia,"Semporna, sabah",6,"2,010",5m,0,No Bleaching,,"Air temperature 33 Deg C, water temperature 30 Deg C",Reef check submitetd by Julian Hyde,,MYS
+"29,407",2.816,104.15,Asia,Southeast Asia,Malaysia,Tioman,4,"2,010",9m 12s,0,No Bleaching,Reef Check survey,,Reef Check submitted by Julian Hyde,,MYS
+"29,375",2.89,104.123,Asia,Southeast Asia,Malaysia,Tioman,9,"2,010",6m 30s,0,No Bleaching,,"Air tempertaure 32 Deg C, water temperature 31 Deg C",Reef Check submitted by Julian Hyde,,MYS
+"29,373",2.9,104.113,Asia,Southeast Asia,Malaysia,Tioman,9,"2,010",6m 30s,0,No Bleaching,,"Air temperature 32 Deg C, Aater temperature 31 Deg C",Reef Check submitted by Julian Hyde,,MYS
+"29,374",2.8,104.135,Asia,Southeast Asia,Malaysia,Tioman islands,4,"2,010",6m,0,No Bleaching,,,Reef check submitted by Julain Hyde,,MYS
+"29,376",2.79,104.123,Asia,Southeast Asia,Malaysia,Tioman islands,4,"2,010",6m,0,No Bleaching,,,Reef Check submitted by Julian Hyde,,MYS
+"29,409",2.876,104.148,Asia,Southeast Asia,Malaysia,Tioman Islands,4,"2,010",4m,0,No Bleaching,Reef Check survey,,Reef check submitted by Julian Hyde,,MYS
+"29,406",2.824,104.157,Asia,Southeast Asia,Malaysia,Tioman islands,7,"2,010",6m,0,No Bleaching,Reef Check survey,,Reef Check submitted by Julian hyde,,MYS
+"29,318",10.066,125.134,Asia,Southeast Asia,Philippines,,7,"2,010",12m,-1,Severity Unknown,,Water temperature : 27 Deg C,"Reef Check , submitted by Jan Willem van Bochove. Reef ID:125.08.04E.10.04.01N",,PHL
+"29,321",10.06,125.13,Asia,Southeast Asia,Philippines,,8,"2,010",12m,-1,Severity Unknown,,,"Reef Check , submitted by Jan Willem van Bochove. Reef ID:125.08.04E.10.04.01N",,PHL
+"29,323",10.06,125.135,Asia,Southeast Asia,Philippines,,8,"2,010",12m,-1,Severity Unknown,,Air temperture : 30 Deg C; Water tempertaure : 30 Deg C,"Reef Check , submitted by Jan Willem van Bochove. Reef ID:125.8.7E.10.3.53N",,PHL
+"29,418",10.157,125.137,Asia,Southeast Asia,Philippines,"Liloan, Southern leyte",8,"2,010",6m,0,No Bleaching,Reef Check survey,Air temperature and water temperature = 31 Deg c,Reef Check submitted by Jan Willem Van Bochove,,PHL
+"29,419",10.157,125.137,Asia,Southeast Asia,Philippines,"Liloan, Southern Leyte",8,"2,010",9m,0,No Bleaching,Reef Check survey,"Air temperature 30 Derg C, water temperature 30 Deg C",Reef Check submitted by Jan Willem Van Bochove,,PHL
+"29,413",13.69,120.889,Asia,Southeast Asia,Philippines,"mabini, batangas",2,"2,010",5m,0,No Bleaching,Reef check survey,,Reef Check submitted by Al Licuana,,PHL
+"29,414",13.728,120.883,Asia,Southeast Asia,Philippines,"Mabini, Batangas",2,"2,010",5m,0,No Bleaching,Reef Check survey,,Reef Check submitted by Al Licuanan,,PHL
+"29,416",13.704,120.875,Asia,Southeast Asia,Philippines,"Mabini, Batangas",4,"2,010",5m,0,No Bleaching,Reef Check survey,,Reef check submiteed by Al Licuanan,,PHL
+"29,417",13.717,120.875,Asia,Southeast Asia,Philippines,"Mabini, Batangas",4,"2,010",,0,No Bleaching,Reef Check survey,,Reef Check submitted Al Licuanan,,PHL
+"29,415",10.064,125.134,Asia,Southeast Asia,Philippines,"San Francisco, Southern Leyte",1,"2,010",9m,0,No Bleaching,Reef Check survey,,Reef Check submitted by Jan Willem van Bochove,,PHL
+"29,420",10.06,125.133,Asia,Southeast Asia,Philippines,"San fransisco, Southern leyte",5,"2,010",12,0,No Bleaching,Reef Check survey,Water temperature 29 Deg C,Reef Check submitted by  jan Willem van Bochove,,PHL
+"29,421",10.06,125.133,Asia,Southeast Asia,Philippines,"San Fransisco, Southern leyte",5,"2,010",12m,0,No Bleaching,Reef Check survey,Water temperature 28 deg C,Reef Check submitted by Jan Willem van Bochove,,PHL
+"29,422",10.06,125.134,Asia,Southeast Asia,Philippines,"San Fransisco, Southern leyte",9,"2,010",12m,0,No Bleaching,Reef Check survey,"Air temperature 30 Deg C, water temperature 31 Deg c",Reef Check submitted by Jan Willem van bochove,,PHL
+"29,423",10.06,125.134,Asia,Southeast Asia,Philippines,"san fransisco, southern leyte",5,"2,010",12m,0,No Bleaching,Reef Check survey,Water temperature 28 Deg C,Reef Check submitted by Jan Willem van Bochove,,PHL
+"29,424",10.0647,125.135,Asia,Southeast Asia,Philippines,"San Fransisco, Southern leyte",7,"2,010",6m,0,No Bleaching,Reef Check survey,water temperature 29 Deg C,Reef Check submitted by jan Willem van Bochove,,PHL
+"29,425",10.064,125.135,Asia,Southeast Asia,Philippines,"San Fransisco, Southern leyte",8,"2,010",6m,0,No Bleaching,Reef Check survey,Watre temperature 30 Deg C,Reef check submitted by 'Jan Willem van Bochove,,PHL
+"29,426",10.05,125.134,Asia,Southeast Asia,Philippines,"San Fransisco, Southern leyte",9,"2,010",6m,0,No Bleaching,Reef Check survey,"Air temperature 30 deg C, water temperature 29 deg C",Reef Check submitted by 'Jan Willem van Bochove,,PHL
+"29,427",10.064,125.135,Asia,Southeast Asia,Philippines,"San fransisco, Southern leyte",5,"2,010",6m,0,No Bleaching,Reef Check survey,Air temperature and water temperature = 28 deg C,Reef Check submitted by Jan Willem van Bochove,,PHL
+"29,428",10.065,125.134,Asia,Southeast Asia,Philippines,"san Fransisco, Southern leyte",9,"2,010",9m,0,No Bleaching,Reef Check survey,Air temperature and water temperature 30 deg C,Reef Check submitted by  Jan Willem van Bochove,,PHL
+"29,429",10.064,125.0135,Asia,Southeast Asia,Philippines,"San Fransisco, Southern leyte",8,"2,010",12 M,0,No Bleaching,Reef Check survey,Air and water temperature = 30 Deg C,Reef Check submitted by Jan Willem van Bochove,,PHL
+"29,311",10.06,125.134,Asia,Southeast Asia,Philippines,Southern Leyte,1,"2,010",12,-1,Severity Unknown,,Water temperature: 27 Deg C,Reef Check submitted by Jan Willem van Bochove. Reef ID: 125.08.04E.10.04.01N,,PHL
+"29,312",10.157,125.137,Asia,Southeast Asia,Philippines,Southern Leyte,8,"2,010",9m 30s,-1,Severity Unknown,,"Air temperature; 30 Deg C, water temperature; 30 Deg C","Reef Check , submitted by Jan Willem van Bochove. Reef ID:125.8.16E.10.9.26N",,PHL
+"29,317",10.06,125.135,Asia,Southeast Asia,Philippines,Southern Leyte,1,"2,010",12m,-1,Severity Unknown,,water temperature : 27 Deg C,"Reef Check , submitted by Jan Willem van Bochove. Reef ID:125.8.6.7E.10.4.0.9N	",,PHL
+"29,324",10.27,166.28,Pacific,Southwest Pacific,Solomon Islands,Temotu,6,"2,010",10m,-1,Severity Unknown,,Air temp : 31; water temp : 30 Deg C,"Reef Check , submitted by Jan Willem van Bochove. Reef ID: 166.16.54.7E.10.16.20S",,SLB
+"29,430",-10.276,166.278,Pacific,Southwest Pacific,Solomon Islands,Tuo village,6,"2,010",12m,0,No Bleaching,Reef Check survey,"Air temperature 31 Deg C, water temperature 30 deg C",Reef Check submitted by Irene Llabres Pohl,,SLB
+"29,431",-10.284,166.27,Pacific,Southwest Pacific,Solomon Islands,Tuo village,6,"2,010",12m,0,No Bleaching,Reef Check survey,"Air temperature 31 Deg C, water temperature 30 deg C",Reef Check submitted by Irene Llabres Pohl,,SLB
+"6,756",-8.151722,115.02525,Asia,Southeast Asia,Indonesia,"Lovina, Bali",4,"2,009",3-13 meters,3,HIGH,"Twim Swim (belt transect width 5 m), @2 minutes on two depths (shallow and moderate)",29-30C,"Jensi Sartin
+Reef Check Foundation Indonesia
+Contact: jensi@Reef Check.org",,IDN
+"6,753",-8.117677,115.34752,Asia,Southeast Asia,Indonesia,"Tejakula-Penuktukan, Bali",5,"2,009",3-13m,3,HIGH,"Twim Swim (belt transect width 5 m), @2 minutes",28-29C,Jensi Sartin (jensi@Reef Check.org) Reef Check Foundation Indonesia,,IDN
+"6,762",4.293892,113.8262,Asia,Southeast Asia,Malaysia,Anemone Reef,8,"2,009",12m,1,Low,Reef Check survey,30C,"Peter Heyes
+Contact: pjheyes@gmail.com",,MYS
+"6,763",4.2923,113.82578,Asia,Southeast Asia,Malaysia,Anemone Reef,8,"2,009",11m,2,Medium,Reef Check Survey,30C,"Peter Heyes
+Contact: pjheyes@gmail.com",,MYS
+"6,918",2.47,104.51,Asia,Southeast Asia,Malaysia,"Aur Islan, Johor",7,"2,009",3,0,No Bleaching,Reef Check protocol,,"Reef Check, Submitted by Julian Hyde. Site ID (104.30.33.33E.2.28.10.38N).",,MYS
+"6,949",2.47,104.53,Asia,Southeast Asia,Malaysia,Aur Island,5,"2,009",3.5,0,No Bleaching,Reef Check Protocol,30 29,"Reef check, Submitted by Julian Hydes. Site ID : 104.31.59.18E.2.28.0.2N",,MYS
+"6,950",2.46,104.49,Asia,Southeast Asia,Malaysia,Aur Island,5,"2,009",2.5,0,No Bleaching,Reef check protocol,"Air temp 31 deg C, Water temp 29 Deg C","Reef Check, Submitted by Julian Hydes. Site ID : NSPulauLang",,MYS
+"6,952",2.47,104.51,Asia,Southeast Asia,Malaysia,Aur Island,7,"2,009",7.9,0,No Bleaching,Reef check protocol,"Air temp 30 deg C, Water temp  29 Deg C.","Reef Check, Submitted by Julian hydes. Site ID : 104.30.27.88E.2.28.10.18N",,MYS
+"6,919",2.44,104.55,Asia,Southeast Asia,Malaysia,"Aur Island, Johor",7,"2,009",10,0,No Bleaching,Reef Check protocol,"Air temp : 30 deg C, Water temp : 29 Deg C","Reef Check, Submitted by Julian hyde. Site ID:  NSPinang",,MYS
+"6,920",2.46,104.49,Asia,Southeast Asia,Malaysia,"Aur Island, Johor",7,"2,009",9.4,0,No Bleaching,Reef Check Protocol,"Air temp : 30 deg C, water temp : 29 Deg C.","Reef Check, submitted by Julian Hyde. Site ID : NSPulauLang",,MYS
+"6,771",4.343267,113.89825,Asia,Southeast Asia,Malaysia,Eve's Garden,9,"2,009",5m,1,Low,Reef Check methodology,30C,"Peter Heyes
+pjheyes@gmail.com",,MYS
+"6,916",6.9,117.52,Asia,Southeast Asia,Malaysia,"Kudat, Sabah",7,"2,009",5,0,No Bleaching,Reef Check Survey,"Air temp 320 deg C, water temp 30 Deg C","Reef Check, Submitted by Julian Hyde. Site ID : 117.30.58.2E.6.53.44.5N",,MYS
+"6,917",6.9,117.52,Asia,Southeast Asia,Malaysia,"Kudat, Sabah",7,"2,009",10,0,No Bleaching,Reef Check Protocol,"Air temp 33 deg C, water temp 30 deg C","Reef Check, Submitted by Julian Hyde. Site ID : 117.30.58.2E.6.53.44.5N",,MYS
+"6,906",4.27,113.82,Asia,Southeast Asia,Malaysia,Miri Sarawak,8,"2,009",3,3,HIGH,Reef Check Protocol,"Air temp 29 deg C, water temp 29 deg C","Reef Check, Submitted by Peter Heyes. Site ID :113.49.0E.4.16.35N",,MYS
+"6,912",4.34,113.9,Asia,Southeast Asia,Malaysia,Miri Sawarak,3,"2,009",6,0,No Bleaching,Reef Check Protocol,"Air temp; 29 deg C, water temp 29 deg C","Reef Check, Submitted by Peter Heyes. Site ID : 113.53.51E.4.20.36N",,MYS
+"6,913",4.27,113.83,Asia,Southeast Asia,Malaysia,"Miri, Sarawak",3,"2,009",10,0,No Bleaching,Reef Check protocol,,"Reef Check, Submitted by Peter Heyes. Site ID : (113.48.54E.4.16.28N)",,MYS
+"6,914",4.27,114.81,Asia,Southeast Asia,Malaysia,"Miri, Sarawak",10,"2,009",9,-1,Severity Unknown,Reef Check Protocol,,"Reef Check, Submitted by Peter Heyes. Site ID : 114.48.52E.4.16.25N",,MYS
+"6,907",4.27,113.82,Asia,Southeast Asia,Malaysia,"Miri, Sarawak",8,"2,009",11,3,HIGH,Reef Check Protocol,29 Deg C,"Reef Check, Submitted by Peter Heyes. Site ID : 113.49.11E.4.17.14N",,MYS
+"6,909",4.27,113.82,Asia,Southeast Asia,Malaysia,"Miri, Sarawak",8,"2,009",11,3,HIGH,Reef Check protocol,"Air temp 29 Deg C, Water temp 29 Deg C","Reef Check, Submitted by Peter Heyes. Site ID : 113.49.11E.4.17.14N",,MYS
+"6,910",4.29,113.83,Asia,Southeast Asia,Malaysia,"Miri, Sarawak",8,"2,009",11,3,HIGH,Reef Check protocol,"Air temp 30 deg C, Water temp 29 Deg C","Reef Check, Submitted by Peter Heyes. Site ID : 113.49.32E.4.17.32N",,MYS
+"6,911",4.29,113.83,Asia,Southeast Asia,Malaysia,"Miri, sarawak",8,"2,009",12,-1,Severity Unknown,Reef Check Protocol,"Air temp 32 deg C, water temp 30 deg C","Reef Check, Submitted by Peter Heyes. Site ID : 113.49.34E.4.17.38N",,MYS
+"6,921",5.92,102.75,Asia,Southeast Asia,Malaysia,Perhentian Island,3,"2,009",8,0,No Bleaching,Reef Check Protocol,"Air temp : 32Deg C, Water temp 30 Deg C","Reef Check, Submitted by Julian Hyde. Site ID : 102.45.233E.5.55.019N",,MYS
+"6,922",5.95,102.71,Asia,Southeast Asia,Malaysia,Perhentian island,5,"2,009",9,0,No Bleaching,Reef Check Protocol,Air/ water temperature 31 Deg C,"Reef Check, Submitted by Julian Hyde. Site ID : 102.42.508E.5.57.143N",,MYS
+"6,969",5.96,102.68,Asia,Southeast Asia,Malaysia,Perhentian Island,6,"2,009",4.2,0,No Bleaching,Reef Check Protocol,"Air temp 32 deg C, Water temp  30 deg C","Reef Check, Submitted by julian Hydes. Site ID : 102.40.50.3E.5.57.45.67N",,MYS
+"6,942",5.76,103.04,Asia,Southeast Asia,Malaysia,Perhentian Island,8,"2,009",9.7,0,No Bleaching,Reef Check Protocol,"Air temperature 33 Deg C, Water temp  30 Deg C.",103.2.20.5E.5.46.18.1N,,MYS
+"6,932",5.92,102.75,Asia,Southeast Asia,Malaysia,Perhentian Island,6,"2,009",7,0,No Bleaching,Reef Check Protocol,"Air temp 32 deg C,  Water temp 30 Deg C","Reef Check, Submitted by Julian Hyde. Site ID : 102.45.233E.5.55.019N",,MYS
+"6,933",5.89,102.77,Asia,Southeast Asia,Malaysia,Perhentian Island,6,"2,009",4.8,0,No Bleaching,Reef Check protocol,"Air temp  31 Deg C, Water temp 29  Deg C","Reef Check, Submitted by Julian Hydes. Site ID : NSTukasLaut",,MYS
+"6,915",5.88,102.74,Asia,Southeast Asia,Malaysia,"Perhentian Island, Trengganu",6,"2,009",5,-1,Severity Unknown,Reef Check Protocol,"Air temp 32 Deg C, Water temp 30 deg C","Reef Check, Submitted by Jullian Hyde. Site ID :NSLighthouseFront",,MYS
+"6,953",5.91,102.75,Asia,Southeast Asia,Malaysia,Perhentian Islands,6,"2,009",10.3,0,No Bleaching,Reef check protocol,"Air temperature 32 Deg C, Water temp  30 Deg C","Reef Check, Submitted by Julian Hydes. Site ID NSBatuLayar",,MYS
+"6,954",5.88,102.74,Asia,Southeast Asia,Malaysia,Perhentian Islands,6,"2,009",5,0,No Bleaching,Reef Check protocol,32  30,"Reef Check, subnmitted by Julian Hydes. Site ID : NSBatuTabir",,MYS
+"6,931",5.88,102.74,Asia,Southeast Asia,Malaysia,"Perhentian Islands, Terengganu",6,"2,009",5,0,No Bleaching,Reef Check Protocol,"Air temperature 32  Deg C,  water temp 30 Deg C","Reef check, submitted by Julian Hyde. Site ID : NSSharkPoint",,MYS
+"6,955",5.76,103.03,Asia,Southeast Asia,Malaysia,Pulau Redang,8,"2,009",4.5,0,No Bleaching,Reef Check Protocol,31 30,Reef Check submitted by Julian Hydes. Site ID : 103.01.41E.5.45.44N,,MYS
+"6,935",5.76,103.3,Asia,Southeast Asia,Malaysia,Redang Island,5,"2,009",9.4,0,No Bleaching,Reef Check protocol,"Air temp 31 Deg c,  water temp 30 Deg C.","Reef Check, Submitted by Julian Hydes. Site ID : NSPulauKerenggaEast",,MYS
+"6,936",5.76,103.3,Asia,Southeast Asia,Malaysia,Redang Island,5,"2,009",10,0,No Bleaching,Reef Check Protocol,"Air temp 31 Deg C, Water temp 30 Deg C.","Reef Check, Submitted by Julian Hydes. Site ID : NSPulauPakuBesar",,MYS
+"6,937",5.76,103.3,Asia,Southeast Asia,Malaysia,Redang island,8,"2,009",6.4,0,No Bleaching,Reef check survey,"Air temp 33 Deg C, Water temp  30 deg C","Reef Check, Submitted by Julian hydes. Site ID : 103.1.46.28E.5.45.30.77N",,MYS
+"6,938",5.75,103.3,Asia,Southeast Asia,Malaysia,Redang island,8,"2,009",9,0,No Bleaching,Reef Check protocol,"Air temp 33 Deg C,  water temp 30 Deg C","Reef Check, Submitted by Julian Hydes. Site ID : NSPulauKerenggaWest",,MYS
+"6,939",5.82,103.01,Asia,Southeast Asia,Malaysia,Redang island,5,"2,009",10.3,0,No Bleaching,Reef Check protocol,32 30,"Reef Check,  submitted by Julian Hydes. Site ID : 103.0.37.3E.5.49.3.58N",,MYS
+"6,940",5.77,103.06,Asia,Southeast Asia,Malaysia,Redang Island,8,"2,009",6.4,0,No Bleaching,Reef Check Protocol,"Air temp 31 Deg C,  Water temp 30 Deg C","Reef Check, Submitted by Julian Hydes. Site ID ; 103.3.32.8E.5.46.18.1N",,MYS
+"6,769",4.402867,113.745333,Asia,Southeast Asia,Malaysia,Santak Reef,9,"2,009",22,3,HIGH,Reef Check methodology,29C,"Peter Heyes
+pjheyes@gmail.com",,MYS
+"6,757",4.27361,113.815,Asia,Southeast Asia,Malaysia,Siwa Reef,8,"2,009",11m,2,Medium,Reef Check Survey,30C,"Peter Heyes,
+Contact: pjheyes@gmail.com",,MYS
+"6,758",4.2761,113.81727,Asia,Southeast Asia,Malaysia,Siwa Reef,8,"2,009",11m,1,Low,Reef Check Survey,30c,"Peter Heyes
+Contact: pjheyes@gmail.com",,MYS
+"6,764",4.287183,113.820367,Asia,Southeast Asia,Malaysia,Sunday Reef,8,"2,009",11m,2,Medium,Reef Check survey,30C,"Peter Heyes
+Contact: pjheyes@gmail.com",,MYS
+"6,956",4.81,103.68,Asia,Southeast Asia,Malaysia,Tenggol Island,8,"2,009",5.1,0,No Bleaching,Reef Check protocol,31 29,"Reef Check, Submitted by Julian Hydes. Site ID : 8103.40.706E.4.48.456N",,MYS
+"6,957",4.82,103.68,Asia,Southeast Asia,Malaysia,Tenggol Island,8,"2,009",5.6,0,No Bleaching,,"Air temp 31 Deg c, Water temp  29 Deg C.","Reef Check, Submitted by Julian Hydes. Site ID : 103.40.58.63E.4.49.13.19N",,MYS
+"6,958",4.82,103.68,Asia,Southeast Asia,Malaysia,Tenggol Island,8,"2,009",8.5,0,No Bleaching,Reef Check Protocol,"Air temp 31 deg C, Water temp  29 Deg C.","Reef Check, Submitteed by Julian Hydes. Site ID : 103.40.58.63E.4.49.13.19N",,MYS
+"6,959",4.82,103.69,Asia,Southeast Asia,Malaysia,Tenggol Island,8,"2,009",12m,0,No Bleaching,Reef Check Protocol,"Air temp 31 Deg C, Water temp  29 Deg C.","Reef Check, Submitted by Julian hydes. Site ID : 103.41.25.35E.4.49.17.61N",,MYS
+"6,960",4.82,103.69,Asia,Southeast Asia,Malaysia,Tenggol Island,8,"2,009",5.4,0,No Bleaching,Reef Check Protocol,"Air temp 31 Deg C, water temp 29 Deg C.","Reef Check, Submitted by Julian Hydes. Site ID :103.41.25.35E.4.49.17.61N",,MYS
+"6,961",4.82,103.68,Asia,Southeast Asia,Malaysia,Tenggol Island,8,"2,009",7.3,0,No Bleaching,Reef Check protocol,"Air temp 31 Deg C, water temp 29 Deg C.","Reef Check, Submitted by Julian Hydes. Site ID :103.41.5.85E.4.49.20.15N",,MYS
+"6,962",2.54,103.93,Asia,Southeast Asia,Malaysia,Tenggol Island,8,"2,009",9,0,No Bleaching,Reef Check protocol,"Air temp 31 Deg C, Water temp 29 deg C.","Reef check, Submitted by Julian Hydes. Site ID : 103.55.505E.2.32.668N",,MYS
+"6,963",2.87,104.15,Asia,Southeast Asia,Malaysia,Tioman,7,"2,009",2.1,0,No Bleaching,Reef Check protocol,"Air temp 30 Deg C, Water temp 30 deg C.","Reef Check, submitted by Julian Hydes. Site ID : 104.9.3.07E.2.52.29.77N",,MYS
+"6,964",2.93,104.1,Asia,Southeast Asia,Malaysia,Tioman,7,"2,009",7.4,0,No Bleaching,Reef Check Protocol,"Air temp 30 Deg C, water temp 30 deg C.","Reef Check, Submitted by Julian Hydes. Site ID : NSChebeh",,MYS
+"6,965",2.88,104.15,Asia,Southeast Asia,Malaysia,Tioman,7,"2,009",3.4,0,No Bleaching,Reef Check Protocol,31 29,"Reef Check, Submitted by . Site ID Julian Hyde NSSoyakIslandSouth",,MYS
+"6,968",2.79,104.12,Asia,Southeast Asia,Malaysia,Tioman Island,7,"2,009",8.4,0,No Bleaching,Reef check Protocol,"Air temp 34 Deg C, Water temp 29 Deg C","Reef Check, Submitted by Julian hydes. Site ID : NSTomok",,MYS
+"6,944",2.91,104.11,Asia,Southeast Asia,Malaysia,Tioman Island,7,"2,009",8,0,No Bleaching,Reef Check protocol,"Air temp 32 Deg C, water temp 31Deg C",104.6.507E.2.54.891N,,MYS
+"6,945",2.82,104.16,Asia,Southeast Asia,Malaysia,Tioman island,7,"2,009",7.7,0,No Bleaching,Reef Check protocol,"Air temp 32 Deg C, water temp  31 Deg C.","Reef Check, Submitted by Julian Hydes. Site ID 104.09.26.6E.2.49.27N",,MYS
+"6,946",2.81,104.14,Asia,Southeast Asia,Malaysia,Tioman Island,7,"2,009",10.6,0,No Bleaching,Reef check protocol,32 31,"Reef Check, Submitted by Julian Hydes. Site ID : 104.8.7.5E.2.48.33.7N",,MYS
+"6,947",2.82,104.15,Asia,Southeast Asia,Malaysia,Tioman island,7,"2,009",6,0,No Bleaching,Reef check Protocol,31 29,"Reef Check, Submitted by Julian Hydes. Site ID 104.9.3.2E.2.49.0.1N",,MYS
+"6,770",4.40367,113.742,Asia,Southeast Asia,Malaysia,Tukau Reef,9,"2,009",21m,3,HIGH,Reef Check methodology,29C,"Peter Heyes
+pjheyes@gmail.com",,MYS
+"6,751",-9.511093,147.17895,Australia,Australia and Papua New Guinea,Papua New Guinea,"Coastal reefs (including off neighbouring islands in the vicinity of the National Capital û Port Moresby, notably Manubada, Fishermans and other local islands",1,"2,009",15ft,3,HIGH,Casual observation from kayaking and snorkeling over the past weeks,Was around 30+ late December early Jan,"Paul Barker, Paul.barker@global.net.pg. 
+Date of observation: Successive weeks since mid-December.latest today (25th January 2009) only snorkeling so not quite sure of depth.",,PNG
+"7,047",-1.53,149.58,Australia,Australia and Papua New Guinea,Papua New Guinea,"Kaleu Island, New Ireland",9,"2,009",10,0,No Bleaching,Reef Check Protocol,,Reef Check submitted by Chris Bone. Site ID : 149.34.44E.1.31.48S,,PNG
+"7,048",-1.53,149.58,Australia,Australia and Papua New Guinea,Papua New Guinea,"Kaleu Island, New Ireland",9,"2,009",2.5,0,No Bleaching,Reef Check Protocol,,Chris Bone 149.35.01E.1.31.50S,,PNG
+"7,046",-4.59,145.9,Australia,Australia and Papua New Guinea,Papua New Guinea,"Marangus (Karkar Island), Madang",8,"2,009",11,0,No Bleaching,Reef Check Protocol,,Reef Check Submitted by Chris Bone. Site ID :  145.54.6E.4.35.11S,,PNG
+"6,750",8.351039,122.343556,Asia,Southeast Asia,Indonesia,"Maumere Bay, Flores, Indonesia",12,"2,008",1-2 m,1,Low,"sightseeing, 10 linear km of reef",,"Dr AH Baird, Andrew.baird@jcu.edu.au.
+ARC Centre of Excellence for Coral Reef Research",,IDN
+"7,100",0.721,119.86,Asia,Southeast Asia,Indonesia,"Palu/Baiya, Central Sulawesi",5,"2,008",3,0,No Bleaching,Reef Check Protocol,"Air temp 35 Deg C, Water temp 30 Deg C","Reef Check, Submitted by Abigail Moore . Site ID119.51.25.5E.0.43.17.1S",,IDN
+"7,110",4.27,113.82,Asia,Southeast Asia,Malaysia,"Miri, Sarawak",8,"2,008",10,-1,Severity Unknown,Reef Check Protocol,"Air temp 28 Deg C, Water temp 30 Deg C","Reef Check, Submitted by Peter Heyes. Site ID  113.48.54E.4.16.28N",,MYS
+"7,108",5.95,102.71,Asia,Southeast Asia,Malaysia,"Perhentian Island ,Terengannu",10,"2,008",5,1,Low,Reef Check Protocol,"Air temp 31 Deg C, Water temp 29 Deg C","Reef Check, Submitted by Daniel Lee. Site ID 102.42.508E.5.57.143N",,MYS
+"7,111",5.89,102.75,Asia,Southeast Asia,Malaysia,"Perhentian Island, Terengganu",6,"2,008",3.6,0,No Bleaching,Reef Check Protocol,"Air temp 32 Deg C, Water temp 30 Deg C","Reef Check, Submitted by Daniel Lee. Site ID  NSSharkPoint",,MYS
+"7,109",2.82,104.16,Asia,Southeast Asia,Malaysia,"Tioman Island, Pahang",3,"2,008",6,0,No Bleaching,Reef Check Protocol,"Air temp 32 Deg C, Water temp 31 Deg C",Daniel Lee 104.09.26.6E.2.49.27N,,MYS
+"7,118",10.21,123.98,Asia,Southeast Asia,Philippines,"Cordova, Cebu",7,"2,008",12,3,HIGH,Reef Check Protocol,"Air temp 32 Deg C, Water temp 33 Deg C","Reef Check, Submitted by DUCARE 2008 Team and Coastal Dynamics Foundation. Site ID 123.59.2.7E.10.12.37.8N",,PHL
+"7,119",10.19,124,Asia,Southeast Asia,Philippines,"Cordova, Cebu",7,"2,008",12,2,Medium,Reef Check Protocol,"Air temp 33 Deg C, Water temp 32 Deg C","Reef Check, Submitted by DUCARE 2008 Team and Coastal Dynamics Foundation. Site ID 124.0.9E.10.11.22.9N",,PHL
+"7,120",10.19,124,Asia,Southeast Asia,Philippines,"Cordova, Cebu",7,"2,008",12,0,No Bleaching,Reef Check Protocol,"Air temp 33 Deg C, Water temp 32 Deg C","Reef Check, Submitted by DUCARE 2008 Team and Coastal Dynamics Foundation. Site ID124.00.09E.10.11.22.9N",,PHL
+"7,122",10.49,124.67,Asia,Southeast Asia,Philippines,"Cuatro Isla, Hindang, Leyte",7,"2,008",3,0,No Bleaching,Reef Check Protocol,"Air temp 28 Deg C, Water temp 28 Deg C","Reef Check, Submitted by DUCARE 2008 Team and Coastal Dynamics Foundation. Site ID 124.40.0.5E.10.29.21.6N",,PHL
+"7,121",10.55,124.66,Asia,Southeast Asia,Philippines,"Cuatro Isla, Inopacan, Leyte",7,"2,008",6,1,Low,Reef Check Protocol,"Air temp 31Deg C, Water temp 31 Deg C","Reef Check, Submitted by DUCARE 2008 Team and Coastal Dynamics Foundation. Site ID 124.39.19.7E.10.32.47.8N",,PHL
+"7,123",10.02,125.01,Asia,Southeast Asia,Philippines,"Padre Burgos, Southern Leyte",1,"2,008",12,0,No Bleaching,reef check protocol,"Air temp 28 Deg C, Water temp 28 Deg C","Reef Check, Submitted by Jan van Bochove. Site ID 720678E.1107724N",,PHL
+"7,124",10.01,125.01,Asia,Southeast Asia,Philippines,"Padre Burgos, Southern Leyte",1,"2,008",9,2,Medium,Reef Check Protocol,"Air temp 35 Deg C, Water temp 30 Deg C","Reef Check, Submitted by Jan van Bochove. Site ID 720685E.1107679N",,PHL
+"7,117",11.15,123.8,Asia,Southeast Asia,Philippines,"Sta. Fe , Cebu",7,"2,008",9.5,3,HIGH,"Reef Check, Submitted by","Air temp 30 Deg C, Water temp 29 Deg C","Reef Check, Submitted byDUCARE 2008 Team and Coastal Dynamics Foundation. Site ID 123.47.49.8E.11.8.44.5N",,PHL
+"7,196",0.04,119.74,Asia,Southeast Asia,Indonesia,Awesang (Pomolulu),7,"2,007",9,0,No Bleaching,Reef Check Protocol,"Air temperature  34 Deg C,  water temperature 28 Deg C,","Reef Check, Submitted by 119.44.34E.0.2.12S.  Site ID  Abigail Moore",,IDN
+"7,195",0.04,119.74,Asia,Southeast Asia,Indonesia,"Awesang (Pomolulu), Central Sulawesi",7,"2,007",3,0,No Bleaching,Reef Check Protocol,"Air temperature  34 Deg C,  water temperature 28 Deg C,","Reef Check, Submitted by 119.44.34E.0.2.12S .  Site ID Abigail Moore",,IDN
+"7,197",0.1,119.77,Asia,Southeast Asia,Indonesia,"Palau, Dusun Santigi",7,"2,007",9,0,No Bleaching,Reef Check Protocol,"Air temperature  31Deg C,  water temperature 28 Deg C,","Reef Check, Submitted by Abigail Moore.  Site ID  119.46.23E.0.6.13S",,IDN
+"7,199",0.75,119.8,Asia,Southeast Asia,Indonesia,Palu,5,"2,007",9,0,No Bleaching,Reef Check Protocol,"Air  temperature 32 Deg C,   water temperature 30 Deg C,","Reef Check, Submitted by Abigail Moore.  Site ID  119.51.21.1E.0.44.51.8S",,IDN
+"7,198",0.04,119.79,Asia,Southeast Asia,Indonesia,Pomolulu,7,"2,007",9,0,No Bleaching,Reef check Protocol,"Air temperetaure 30 Deg c, Water temperature 27 Deg C","Reef Check, Submitted by Abigail Moore .  Site ID 119.47.41E.0.2.9S",,IDN
+"7,200",0.04,119.87,Asia,Southeast Asia,Indonesia,Sibualong,7,"2,007",3,0,No Bleaching,Reef Check Protocol,"Air temperature  31 Deg C,   water temperature 28 Deg C,","Reef Check, Submitted by Abigail Moore.  Site ID  119.52.21E.0.2.36N",,IDN
+"7,201",0.04,119.87,Asia,Southeast Asia,Indonesia,Sibualong,7,"2,007",9,0,No Bleaching,Reef Check Protocol,"Air temperature  31 Deg C,   water temperature 28 Deg C,","Reef Check, Submitted by Abigail Moore.  Site ID 119.52.21E.0.2.36N",,IDN
+"4,328",-3.1667,152.582,Australia,Australia and Papua New Guinea,Papua New Guinea,Lihir Island group,2,"2,006",,1,Low,,,Timothy Skewes (Timothy.Skewes@csiro.au) in coral list 3/16/2006,,PNG
+"4,327",6.44,99.69,Asia,Southeast Asia,Malaysia,"Teluluk Datai, Langkawi",5,"2,005",2-5m,1,Low,randon freediving,30-31░C (June-August 2005).,"Lee, Y. L., Y. Yusuf, K. R. Kassem and K. W. P. Hiew, 2005.Community-Based Fisheries Management in Kubang Badak, Northeast Langkawi.  Paper presented at International Conference on Innovations and Technologies in Oceanography for Sustainable Development",,MYS
+"4,064",14.861,122.223,Asia,Southeast Asia,Philippines,Polillo Islands,7,"2,005",1 - 3 m,3,HIGH,,78F,Patrick Boisvert (southgarbage@yahoo.com) personal communication to Reefbase,,PHL
+"3,326",-8.14,114.44,Asia,Southeast Asia,Indonesia,Bali Barat,9,"2,002",,1,Low,,,Paul Marshall (personal communication),,IDN
+"2,573",6.059,100.043,Asia,Southeast Asia,Malaysia,"Front (Eastern) Marine Park Center,Pulau Payar Marine Park",8,"2,002",1-8m,1,Low,Reef Check and free diving,"32C at sea surface, 30C at 7m",Yusri Yusuf (ReefBase) personal observation,,MYS
+"2,572",6.054,100.04,Asia,Southeast Asia,Malaysia,"Japanese Garden, Pulau Payar Marine Park,Kedah",8,"2,002",1-10 m,1,Low,Reef Check and free diving,"32C at sea surface, 30C at 7m",Yusri Yusuf (ReefBase) personal observation,,MYS
+"7,203",6.61,117.87,Asia,Southeast Asia,Malaysia,Lankayan Island - Billean Island - Tegaipil Island,5,"2,002",,-1,Severity Unknown,,,"Mr. Don Baker, Reef Guardian Sdn. Bhd. Sandakan Sabah",,MYS
+"2,575",6.059,100.043,Asia,Southeast Asia,Malaysia,"Marine Park Center to Langkawi Coral,Pulau Payar Marine Park",8,"2,002",1-8m,1,Low,Reef Check and free diving,"32C at sea surface, 30C at 7m",Yusri Yusuf (ReefBase) personal observation,,MYS
+"2,577",6.072,100.049,Asia,Southeast Asia,Malaysia,"Pulau Kaca, Pulau Payar Marine Park",8,"2,002",1-10,1,Low,Reef Check and free diving,"32C at sea surface (evening), 30C at 7m",Yusri Yusuf (ReefBase) personal observation,,MYS
+"2,578",6.07,100.059,Asia,Southeast Asia,Malaysia,"Pulau Lembu, Pulau Payar Marine Park",8,"2,002",1-10,1,Low,Reef Check and free diving,"32C at sea surface (evening), 30C at 7m",Yusri Yusuf (ReefBase) personal observation,,MYS
+"2,567",6.05,100.04,Asia,Southeast Asia,Malaysia,Pulau Payar Marine Park- coral gardens,7,"2,002",5-18m,1,Low,casual observations during 1 hour dive,,"Dr. Jamie Oliver, ICLARM  (personal observation)",,MYS
+"2,565",5.957,102.76,Asia,Southeast Asia,Malaysia,Pulau Perhentian - Pinnacle - just north of P. Kecil,7,"2,002",1-18m,0,No Bleaching,casual observations during 1 hour dive,,"Dr. Johann Bell, ICLARM (personal communication)",,MYS
+"2,564",5.918,102.76,Asia,Southeast Asia,Malaysia,Pulau Perhentian Besar,7,"2,002",1-15m,1,Low,casual observations during 1 hour dive,,"Dr. Johann Bell, ICLARM (personal communication)",,MYS
+"2,563",5.913,102.717,Asia,Southeast Asia,Malaysia,Pulau Perhentian Kecil - Long Beach,7,"2,002",1-9m,1,Low,casual observation during 1 hour dive,,"Dr. Johann Bell, ICLARM (personal communication)",,MYS
+"2,566",5.758,103.03,Asia,Southeast Asia,Malaysia,Pulau Redang,7,"2,002",3-10,0,No Bleaching,casual observations during 1 hour dive,,"Dr. Jamie Oliver, ICLARM  (personal observation)",,MYS
+"2,579",6.043,99.93,Asia,Southeast Asia,Malaysia,"Pulau Segantang, Pulau Payar Marine Park System",8,"2,002",1-8m,1,Low,Reef Check and free diving,"32C at sea surface (evening), 30C at 7m",Yusri Yusuf (ReefBase) personal observation,,MYS
+"2,576",6.055,100.042,Asia,Southeast Asia,Malaysia,"Teluk Balas, Pulau Payar Marine Park",8,"2,002",1-15,1,Low,Reef Check and free diving,"32C at sea surface (evening), 30C at 7m",Yusri Yusuf (ReefBase) personal observation,,MYS
+"2,574",6.064,100.036,Asia,Southeast Asia,Malaysia,Western Side (Back) of Pulau Payar Marine Park,8,"2,002",1-15m,1,Low,Reef Check and free diving,"32C at sea surface, 30C at 7m",Yusri Yusuf (ReefBase) personal observation,,MYS
+"2,548",9.08,123.2667,Asia,Southeast Asia,Philippines,Apo Island Marine Reserve,7,"2,000",,-1,Severity Unknown,,,"Raymundo, L.J. & A. P. Maypa 2002. Recovery of Apo Island Marine Reserve, Philippines, 2 years after the El Nino bleaching event.  Coral Reef (online published 25 June 2002)",,PHL
+"2,611",-10.3,150.416,Australia,Australia and Papua New Guinea,Papua New Guinea,"Woodlark Island, Milne Bay",1,"2,000",2-5m,2,Medium,,,"Srinivasan, M. 2000. Coral Bleaching And Climate Change.  In Munday P.L. (Ed.) The Status Of Coral Reefs In Papua New Guinea. Global Coral Reef Monitoring Network (GCRMN).",,PNG
+542,-9.0092,160.1024,Pacific,Southwest Pacific,Solomon Islands,Florida Islands,1,"2,000",,2,Medium,,29c,"Sulu, R., Cameron, H., Ramohia, P. and Lam, M. The Status of Solomon Islands' Coral Reefs",0,SLB
+548,-8.5,160.9,Pacific,Southwest Pacific,Solomon Islands,"Fuaga, Malaita",5,"2,000",,2,Medium,,,"Sulu, R., Cameron, H., Ramohia, P. and Lam, M. The Status of Solomon Islands' Coral Reefs",0,SLB
+541,-8.067,156.8,Pacific,Southwest Pacific,Solomon Islands,Ghizo,1,"2,000",,3,HIGH,,,"Sulu, R., Cameron, H., Ramohia, P. and Lam, M. The Status of Solomon Islands' Coral Reefs",0,SLB
+508,-9.7951,159.7996,Pacific,Southwest Pacific,Solomon Islands,Guadalcanal,3,"2,000",15m,1,Low,,,Coral Listserver,0,SLB
+545,-10.1667,161.95,Pacific,Southwest Pacific,Solomon Islands,Las Tres Marias Islands,5,"2,000",,2,Medium,,30c,"Sulu, R., Cameron, H., Ramohia, P. and Lam, M. The Status of Solomon Islands' Coral Reefs",0,SLB
+546,-8.4895,158.1295,Pacific,Southwest Pacific,Solomon Islands,Marovo Lagoon,5,"2,000",,2,Medium,,30c,"Sulu, R., Cameron, H., Ramohia, P. and Lam, M. The Status of Solomon Islands' Coral Reefs",0,SLB
+543,-9.083,160.25,Pacific,Southwest Pacific,Solomon Islands,Nggela,5,"2,000",,2,Medium,,30c,"Sulu, R., Cameron, H., Ramohia, P. and Lam, M. The Status of Solomon Islands' Coral Reefs",0,SLB
+547,-7.65,156.6667,Pacific,Southwest Pacific,Solomon Islands,Otong Java,5,"2,000",,2,Medium,,,"Sulu, R., Cameron, H., Ramohia, P. and Lam, M. The Status of Solomon Islands' Coral Reefs",0,SLB
+544,-8.9979,159.2518,Pacific,Southwest Pacific,Solomon Islands,Russell Islands,5,"2,000",,2,Medium,,30c,"Sulu, R., Cameron, H., Ramohia, P. and Lam, M. The Status of Solomon Islands' Coral Reefs",0,SLB
+572,14.85,120.8167,Asia,Southeast Asia,Philippines,"Anilao, Butangus",6,"1,999",,1,Low,,,http://www.osdpd.noaa.gov/PSB/EPS/SST/climohot_1999.html,0,PHL
+10,9.08333,123.26667,Asia,Southeast Asia,Philippines,Apo Island,0,"1,999",,2,Medium,,,R@RSEA: Alan White,0,PHL
+8,9.51667,123.68333,Asia,Southeast Asia,Philippines,Balicasag Island,0,"1,999",,2,Medium,,,R@RSEA: Alan White,0,PHL
+7,9.43333,123.95,Asia,Southeast Asia,Philippines,Pamilacan Island,0,"1,999",,1,Low,,,R@RSEA: Alan White,0,PHL
+9,9.4,123.36667,Asia,Southeast Asia,Philippines,Sumilon Island,0,"1,999",,2,Medium,,,R@RSEA: Alan White,0,PHL
+"2,613",-5.235,151.023,Australia,Australia and Papua New Guinea,Papua New Guinea,Kimbe Bay,5,"1,999",,2,Medium,50m transects,,"Srinivasan, M. 2000. Coral Bleaching And Climate Change.  In Munday P.L. (Ed.) The Status Of Coral Reefs In Papua New Guinea. Global Coral Reef Monitoring Network (GCRMN).",,PNG
+"2,614",-5.235,151.023,Australia,Australia and Papua New Guinea,Papua New Guinea,Kimbe Bay,9,"1,999",,1,Low,50m transects,,"Srinivasan, M. 2000. Coral Bleaching And Climate Change.  In Munday P.L. (Ed.) The Status Of Coral Reefs In Papua New Guinea. Global Coral Reef Monitoring Network (GCRMN).",,PNG
+575,-9.4833,147.1833,Australia,Australia and Papua New Guinea,Papua New Guinea,Port Moresby,4,"1,999",10m,3,HIGH,,28.5 - 31c,http://www.osdpd.noaa.gov/PSB/EPS/SST/climohot_1999.html,0,PNG
+"2,612",-5.235,151.023,Australia,Australia and Papua New Guinea,Papua New Guinea,"Tamane Puli Marine Reserve, Kimbe Bay",4,"1,999",6-20m,1,Low,50m transects,,"Srinivasan, M. 2000. Coral Bleaching And Climate Change.  In Munday P.L. (Ed.) The Status Of Coral Reefs In Papua New Guinea. Global Coral Reef Monitoring Network (GCRMN).",,PNG
+51,-8.1036,115.0568,Asia,Southeast Asia,Indonesia,Bali,5,"1,998",,3,HIGH,,,NOAA database,0,IDN
+"2,081",-8.1,114.9,Asia,Southeast Asia,Indonesia,Bali Barat,1,"1,998",,3,HIGH,,,ReefBase,8838,IDN
+501,-1.5,123.25,Asia,Southeast Asia,Indonesia,"Banggai Island, Sulawesi",10,"1,998",,0,No Bleaching,,,http://www.osdpd.noaa.gov/PSB/EPS/SST/climohot_1999.html,0,IDN
+270,1.8148,125.1641,Asia,Southeast Asia,Indonesia,"Bangka, N Sulawesi",0,"1,998",,0,No Bleaching,,,"Wilkinson, Clive",0,IDN
+27,-8.1979,114.4281,Asia,Southeast Asia,Indonesia,"Barat National Park, Bali",0,"1,998",,3,HIGH,,,"Wilkinson, Clive",0,IDN
+"3,896",1.6142,124.73,Asia,Southeast Asia,Indonesia,Bunaken National Park,12,"1,998",,2,Medium,,30C at 5 meter,"Harahap, Z. 1998. Documenting Coral-bleaching in Bunaken National Park 
+online document http://www.nrm.or.id/Content/Resources/headlineNews/HeadlineNews.asp?NewsID=1998-13-07",,IDN
+269,1.6142,124.7387,Asia,Southeast Asia,Indonesia,"Bunaken, N Sulawesi",0,"1,998",,0,No Bleaching,,,"Wilkinson, Clive",0,IDN
+502,1.6333,124.7667,Asia,Southeast Asia,Indonesia,"Bunaken, N Sulawesi",11,"1,998",,3,HIGH,,,http://www.osdpd.noaa.gov/PSB/EPS/SST/climohot_1999.html,0,IDN
+381,-1.0912,117.1308,Asia,Southeast Asia,Indonesia,East Kalimantan,1,"1,998",,3,HIGH,,23,Coral Listserver,0,IDN
+"1,828",-8.383333,116.05,Asia,Southeast Asia,Indonesia,Gili Islands,3,"1,998",20,3,HIGH,,,ReefBase,8838,IDN
+67,-8.3295,116.0603,Asia,Southeast Asia,Indonesia,"Gili Islands, Lombok Strait",3,"1,998",,3,HIGH,,,"Wilkinson, Clive",0,IDN
+"2,087",-5.866667,110.333333,Asia,Southeast Asia,Indonesia,Karimun Jawa,1,"1,998",,2,Medium,,,ReefBase,8838,IDN
+47,-5.9013,110.5041,Asia,Southeast Asia,Indonesia,"Karimunjawa, Java",2,"1,998",,2,Medium,,,"Wilkinson, Clive",0,IDN
+"2,084",-7.666667,114,Asia,Southeast Asia,Indonesia,Lembongan,1,"1,998",,1,Low,,,ReefBase,8838,IDN
+43,-8.2601,116.6871,Asia,Southeast Asia,Indonesia,Lombok Island,5,"1,998",,3,HIGH,,,NOAA database,0,IDN
+268,1.5276,124.7984,Asia,Southeast Asia,Indonesia,"Manado, N Sulawesi",0,"1,998",,0,No Bleaching,,,"Wilkinson, Clive",0,IDN
+160,1.1385,122.35,Asia,Southeast Asia,Indonesia,N. Sulawesi,10,"1,998",,2,Medium,,,NOAA database,0,IDN
+57,-8.6551,115.4559,Asia,Southeast Asia,Indonesia,Nusa Lembongan (SE Bali),6,"1,998",,1,Low,,,NOAA database,0,IDN
+58,-8.7144,115.6085,Asia,Southeast Asia,Indonesia,Nusa Penida,6,"1,998",,1,Low,,,NOAA database,0,IDN
+"2,082",-8.666667,115.466667,Asia,Southeast Asia,Indonesia,Nusa Penida,1,"1,998",,1,Low,,,ReefBase,8838,IDN
+52,-8.1185,114.6278,Asia,Southeast Asia,Indonesia,"Pemuteran, N.Bali",5,"1,998",,2,Medium,,,NOAA database,0,IDN
+"2,066",-5.516667,106.483333,Asia,Southeast Asia,Indonesia,Seribu Islands,1,"1,998",,2,Medium,,,ReefBase,8838,IDN
+267,-4.8,119.2988,Asia,Southeast Asia,Indonesia,"Spermonde Archipelago, near Ujung Pandang, SW Sulawesi",0,"1,998",,0,No Bleaching,,,"Wilkinson, Clive",0,IDN
+350,1.2353,104.5662,Asia,Southeast Asia,Indonesia,Tanjong Berakit,0,"1,998",,2,Medium,,,Reef Check Data 2085,0,IDN
+500,-0.3333,122,Asia,Southeast Asia,Indonesia,"Togean Islands, Sulawesi",10,"1,998",,1,Low,,,http://www.osdpd.noaa.gov/PSB/EPS/SST/climohot_1999.html,0,IDN
+"2,083",-8.3,115.616667,Asia,Southeast Asia,Indonesia,Tulamben,1,"1,998",,3,HIGH,,,ReefBase,8838,IDN
+46,-8.2727,115.6128,Asia,Southeast Asia,Indonesia,"Tulamben, Bali",0,"1,998",,3,HIGH,,,"Wilkinson, Clive",0,IDN
+56,-8.7243,115.9421,Asia,Southeast Asia,Indonesia,"W. of Lombok, Bali",6,"1,998",,3,HIGH,,,NOAA database,0,IDN
+324,4.58,118.76,Asia,Southeast Asia,Malaysia,"Bodgaya Dead End Channel, Sabah",0,"1,998",,1,Low,,,Reef Check Data 2229,0,MYS
+333,4.57,118.76,Asia,Southeast Asia,Malaysia,"Bodgaya South Rim, Sabah",0,"1,998",,1,Low,,,Reef Check Data 2234,0,MYS
+"2,040",6.016667,116.033333,Asia,Southeast Asia,Malaysia,Gaya Island ( Pulau Gaya ),5,"1,998",1-2,1,Low,,,ReefBase,8838,MYS
+345,4.65,118.83,Asia,Southeast Asia,Malaysia,"Kapikan, Sabah",0,"1,998",,2,Medium,,,Reef Check Data 2238,0,MYS
+273,5.9714,116.0039,Asia,Southeast Asia,Malaysia,Mamutik Island,0,"1,998",,1,Low,,,"Wilkinson, Clive",0,MYS
+334,4.6248,118.7808,Asia,Southeast Asia,Malaysia,"Mantabuan, Sabah",0,"1,998",,1,Low,,,Reef Check Data 2239,0,MYS
+"2,571",2.478,104.514,Asia,Southeast Asia,Malaysia,Pulau Aur,6,"1,998",,0,No Bleaching,,,"Yasin, Z. &  A. L. Abdullah. 2001. The effect of thermal stress on the coral reefs of the Straits of Malacca ant the South China Sea during 1998 El Nino.  Paper Presented at Asian Wetland Symposium 2001, Penang, Malaysia.  Sept 2001.",,MYS
+272,4.9427,118.2525,Asia,Southeast Asia,Malaysia,Pulau Baik,0,"1,998",,1,Low,,,"Wilkinson, Clive",0,MYS
+48,6.0361,116.0322,Asia,Southeast Asia,Malaysia,"Pulau Gaya, Sabah",5,"1,998",1 to 2 m,2,Medium,,32,Coral Listserver,0,MYS
+346,5.77,103.06,Asia,Southeast Asia,Malaysia,Pulau Lima,0,"1,998",,2,Medium,,,Reef Check Data 2288,0,MYS
+11,6.05,100.04,Asia,Southeast Asia,Malaysia,Pulau Payar,6,"1,998",,3,HIGH,,"2 degrees above seasonal high (33C surface, 30C at 20 meter)",Nora Ibrahim,0,MYS
+12,6.05,100.04,Asia,Southeast Asia,Malaysia,Pulau Payar,9,"1,998",,3,HIGH,,"2 degrees above seasonal high (33C surface, 30C at 20 meter)",Nora Ibrahim,0,MYS
+13,6.05,100.04,Asia,Southeast Asia,Malaysia,Pulau Payar,12,"1,998",,3,HIGH,,"2 degrees above seasonal high (33C surface, 30C at 20 meter)",Nora Ibrahim,0,MYS
+"2,568",6.05,100.04,Asia,Southeast Asia,Malaysia,Pulau Payar Marine Park,0,"1,998",1-10m,3,HIGH,,,"Yasin, Z. &  A. L. Abdullah. 2001. The effect of thermal stress on the coral reefs of the Straits of Malacca ant the South China Sea during 1998 El Nino.  Paper Presented at Asian Wetland Symposium 2001, Penang, Malaysia.  Sept 2001.",,MYS
+"2,570",2.563,104.343,Asia,Southeast Asia,Malaysia,Pulau Pemanggil,6,"1,998",,1,Low,,,"Yasin, Z. &  A. L. Abdullah. 2001. The effect of thermal stress on the coral reefs of the Straits of Malacca ant the South China Sea during 1998 El Nino.  Paper Presented at Asian Wetland Symposium 2001, Penang, Malaysia.  Sept 2001.",,MYS
+271,5.85,118.33,Asia,Southeast Asia,Malaysia,Pulau Sakar,0,"1,998",,2,Medium,,,"Wilkinson, Clive",0,MYS
+"2,569",2.282,104.112,Asia,Southeast Asia,Malaysia,Pulau Tinggi and Pulau Besar,6,"1,998",,2,Medium,,,"Yasin, Z. &  A. L. Abdullah. 2001. The effect of thermal stress on the coral reefs of the Straits of Malacca ant the South China Sea during 1998 El Nino.  Paper Presented at Asian Wetland Symposium 2001, Penang, Malaysia.  Sept 2001.",,MYS
+88,4.4939,118.6133,Asia,Southeast Asia,Malaysia,"Semporna, Sabah",5,"1,998",,1,Low,,,"Wilkinson, Clive",0,MYS
+124,8.6366,111.924,Asia,Southeast Asia,Malaysia,"Spratly Islands, Malaysia",7,"1,998",,3,HIGH,,,"Wilkinson, Clive",0,MYS
+802,1.9,109.7667,Asia,Southeast Asia,Malaysia,Talang Talang Islands,0,"1,998",10-20m,2,Medium,,,GCRMN 2000. Chapter 7,0,MYS
+363,5.73,103,Asia,Southeast Asia,Malaysia,Terumbu Kili,0,"1,998",,3,HIGH,,,Reef Check Data 2280,0,MYS
+801,6,116.0333,Asia,Southeast Asia,Malaysia,Tunku Abdul Rahman Park,0,"1,998",,2,Medium,,,GCRMN 2000. Chapter 7,0,MYS
+351,5.9026,102.7834,Asia,Southeast Asia,Malaysia,Turtle Bay,0,"1,998",,2,Medium,,,Reef Check Data 1999,0,MYS
+87,4.9736,118.3911,Asia,Southeast Asia,Malaysia,"Turtle Islands, Sabah",5,"1,998",,1,Low,,,"Wilkinson, Clive",0,MYS
+2,13.302,121.533,Asia,Southeast Asia,Philippines,,0,"1,998",,3,HIGH,,,R@RSEA: UP Marine Science In,0,PHL
+3,12.312,122.196,Asia,Southeast Asia,Philippines,,0,"1,998",,3,HIGH,,,R@RSEA: UP Marine Science In,0,PHL
+4,12.15,122.211,Asia,Southeast Asia,Philippines,,0,"1,998",,3,HIGH,,,R@RSEA: UP Marine Science In,0,PHL
+5,12.367,122.196,Asia,Southeast Asia,Philippines,,0,"1,998",,3,HIGH,,,R@RSEA: UP Marine Science In,0,PHL
+6,9.76,123.74,Asia,Southeast Asia,Philippines,,0,"1,998",,3,HIGH,,,R@RSEA: UP Marine Science In,0,PHL
+"2,187",14.824,121.885,Asia,Southeast Asia,Philippines,,0,"1,998",,2,Medium,,,R@RSEA: UP Marine Science In,0,PHL
+"2,188",14.453,122.033,Asia,Southeast Asia,Philippines,,0,"1,998",,2,Medium,,,R@RSEA: UP Marine Science In,0,PHL
+"2,189",13.788,120.675,Asia,Southeast Asia,Philippines,,0,"1,998",,2,Medium,,,R@RSEA: UP Marine Science In,0,PHL
+"2,190",10.575,119.822,Asia,Southeast Asia,Philippines,,0,"1,998",,2,Medium,,,R@RSEA: UP Marine Science In,0,PHL
+"2,191",9.8,119.389,Asia,Southeast Asia,Philippines,,0,"1,998",,2,Medium,,,R@RSEA: UP Marine Science In,0,PHL
+"2,192",5.581,124.873,Asia,Southeast Asia,Philippines,,0,"1,998",,2,Medium,,,R@RSEA: UP Marine Science In,0,PHL
+"2,193",6.625,122.468,Asia,Southeast Asia,Philippines,,0,"1,998",,2,Medium,,,R@RSEA: UP Marine Science In,0,PHL
+"2,194",9.556,123.661,Asia,Southeast Asia,Philippines,,0,"1,998",,2,Medium,,,R@RSEA: UP Marine Science In,0,PHL
+"2,195",12.35,122.773,Asia,Southeast Asia,Philippines,,0,"1,998",,2,Medium,,,R@RSEA: UP Marine Science In,0,PHL
+"2,196",5.242,120.148,Asia,Southeast Asia,Philippines,,0,"1,998",,2,Medium,,,R@RSEA: UP Marine Science In,0,PHL
+"2,197",11.842,121.902,Asia,Southeast Asia,Philippines,,0,"1,998",,2,Medium,,,R@RSEA: UP Marine Science In,0,PHL
+"2,198",10.573,124.041,Asia,Southeast Asia,Philippines,,0,"1,998",,2,Medium,,,R@RSEA: UP Marine Science In,0,PHL
+"2,199",10.307,125.378,Asia,Southeast Asia,Philippines,,0,"1,998",,2,Medium,,,R@RSEA: UP Marine Science In,0,PHL
+"2,200",6.269,124.125,Asia,Southeast Asia,Philippines,,0,"1,998",,2,Medium,,,R@RSEA: UP Marine Science In,0,PHL
+"2,201",9.558,122.586,Asia,Southeast Asia,Philippines,,0,"1,998",,3,HIGH,,,R@RSEA: UP Marine Science In,0,PHL
+"2,023",9.083333,123.266667,Asia,Southeast Asia,Philippines,Apo Island,10,"1,998",,2,Medium,,,ReefBase,8838,PHL
+370,9.07,123.27,Asia,Southeast Asia,Philippines,Apo Island Marine Reserve,0,"1,998",,3,HIGH,,,Reef Check Data 2338,0,PHL
+"2,547",9.08,123.2667,Asia,Southeast Asia,Philippines,Apo Island Marine Reserve,8,"1,998",,3,HIGH,,,"Raymundo, L.J. & A. P. Maypa 2002. Recovery of Apo Island Marine Reserve, Philippines, 2 years after the El Nino bleaching event.  Coral Reef (online published 25 June 2002)",,PHL
+120,13.7163,120.8504,Asia,Southeast Asia,Philippines,Batangas,9,"1,998",,2,Medium,,,NOAA database,0,PHL
+"2,217",16.416667,119.95,Asia,Southeast Asia,Philippines,Bolinao,0,"1,998",,3,HIGH,,,ReefBase,7267,PHL
+83,16.31,119.77,Asia,Southeast Asia,Philippines,Bolinao (northwest),8,"1,998",15,3,HIGH,,33-34,Coral Listserver,0,PHL
+"2,666",16.37,119.87,Asia,Southeast Asia,Philippines,"Bolinao, Pangasinan",8,"1,998",,3,HIGH,100m transect at 10m depth and video transect,"up to 35C, hotspot persisted for 7 month","Arceo, H.O.,  M.C. Quibilan, P.M. Ali±o, G. Lim and W.Y. Licuanan, 1999.   Coral bleaching in the Philippines reefs: coincident evidences with mesoscale thermal anomalies. Bulletin of Marine Science Vol. 69, no. 2.pp. 579-593",11292,PHL
+161,10.4456,123.6308,Asia,Southeast Asia,Philippines,Cebu,11,"1,998",,2,Medium,,,NOAA database,0,PHL
+377,11.9049,120.2632,Asia,Southeast Asia,Philippines,"Coron Island, North Palawan",8,"1,998",,3,HIGH,,32,Coral Listserver,0,PHL
+145,11.1805,123.1675,Asia,Southeast Asia,Philippines,Danao Bay,10,"1,998",,3,HIGH,,,NOAA database,0,PHL
+804,7,126,Asia,Southeast Asia,Philippines,Eastern Mindanao,0,"1,998",,2,Medium,,,GCRMN 2000. Chapter 7,0,PHL
+73,11.1847,119.3872,Asia,Southeast Asia,Philippines,"El Nido, North Palawan",8,"1,998",,3,HIGH,,32,NOAA database,0,PHL
+"3,985",9.87,122.37,Asia,Southeast Asia,Philippines,"Hilarys Reef and Convention Reef, Danjugan Island, Negros Occidental",8,"1,998",0-25m,3,HIGH,"1 m2 quadrat, with photographics and insitu observation",31C,"Beger, M., J-L.Solandt and T. Dacles, 2001.  Coral Reef Bleaching at Danjugan Island, Negros Occidental, Philippines - A two year monitoring programme: Danjugan Island.  Coral Cay Conservation Ltd 154 Clapham Park Road London Sw4 7de, UK.",14059,PHL
+113,9.8664,118.78,Asia,Southeast Asia,Philippines,"Honda Bay, Palawan",12,"1,998",,3,HIGH,,32,Coral Listserver,0,PHL
+"2,667",11,114,Asia,Southeast Asia,Philippines,Kalayaan Island Groups,8,"1,998",,3,HIGH,100m transect at 10m depth and video transect,,"Arceo, H.O.,  M.C. Quibilan, P.M. Ali±o, G. Lim and W.Y. Licuanan, 1999.   Coral bleaching in the Philippines reefs: coincident evidences with mesoscale thermal anomalies. Bulletin of Marine Science Vol. 69, no. 2.pp. 579-593",,PHL
+121,13.2421,121.9158,Asia,Southeast Asia,Philippines,Marinduque Island,9,"1,998",,3,HIGH,,,NOAA database,0,PHL
+89,9.3272,122.747,Asia,Southeast Asia,Philippines,"Negros Island, Philipines",7,"1,998",,3,HIGH,,,"Wilkinson, Clive",0,PHL
+"2,668",10.4,119.17,Asia,Southeast Asia,Philippines,North Palawan Shelf,8,"1,998",,3,HIGH,100m transect at 10m depth and video transect,>1.8C temperature anomality,"Arceo, H.O.,  M.C. Quibilan, P.M. Ali±o, G. Lim and W.Y. Licuanan, 1999.   Coral bleaching in the Philippines reefs: coincident evidences with mesoscale thermal anomalies. Bulletin of Marine Science Vol. 69, no. 2.pp. 579-593",,PHL
+803,9,124,Asia,Southeast Asia,Philippines,Northern Mindanao,0,"1,998",,2,Medium,,,GCRMN 2000. Chapter 7,0,PHL
+"2,022",9.883333,118.783333,Asia,Southeast Asia,Philippines,Palawan,0,"1,998",,3,HIGH,,,ReefBase,7267,PHL
+85,9.0889,118.2272,Asia,Southeast Asia,Philippines,Palawan area,8,"1,998",15,3,HIGH,,33-34,Coral Listserver,0,PHL
+361,10.47,119.17,Asia,Southeast Asia,Philippines,Palph01,0,"1,998",,3,HIGH,,,Reef Check Data 2003,0,PHL
+340,10.4865,119.1432,Asia,Southeast Asia,Philippines,Palph02,0,"1,998",,2,Medium,,,Reef Check Data 2004,0,PHL
+335,10.52,119.14,Asia,Southeast Asia,Philippines,Palph03,0,"1,998",,2,Medium,,,Reef Check Data 2005,0,PHL
+347,10.5,119.13,Asia,Southeast Asia,Philippines,Palph04,0,"1,998",,2,Medium,,,Reef Check Data 2006,0,PHL
+326,9.9267,118.9121,Asia,Southeast Asia,Philippines,Palph05,0,"1,998",,1,Low,,,Reef Check Data 2333,0,PHL
+320,9.92,118.88,Asia,Southeast Asia,Philippines,Palph07,0,"1,998",,0,No Bleaching,,,Reef Check Data 2335,0,PHL
+327,9.92,118.89,Asia,Southeast Asia,Philippines,Palph08,0,"1,998",,1,Low,,,Reef Check Data 2336,0,PHL
+328,9.91,118.83,Asia,Southeast Asia,Philippines,Palph09,0,"1,998",,1,Low,,,Reef Check Data 2337,0,PHL
+325,9.91,118.79,Asia,Southeast Asia,Philippines,Palph10,0,"1,998",,1,Low,,,Reef Check Data 2331,0,PHL
+323,9.89,118.77,Asia,Southeast Asia,Philippines,Palph11,0,"1,998",,1,Low,,,Reef Check Data 2332,0,PHL
+"2,121",12.05,122.9,Asia,Southeast Asia,Philippines,Philippines,7,"1,998",28,3,HIGH,,,ReefBase,8838,PHL
+80,10.8807,120.8045,Asia,Southeast Asia,Philippines,Philippines,8,"1,998",,2,Medium,,,NOAA database,0,PHL
+114,10.484,119.2463,Asia,Southeast Asia,Philippines,"Port Barton, Palawan",12,"1,998",,3,HIGH,,32,Coral Listserver,0,PHL
+"2,138",13.533333,120.933333,Asia,Southeast Asia,Philippines,Puerto Galera,0,"1,998",,3,HIGH,,,ReefBase,7267,PHL
+84,13.54,120.76,Asia,Southeast Asia,Philippines,Puerto Galera (central Ph,8,"1,998",15,3,HIGH,,33-34,Coral Listserver,0,PHL
+239,10.0844,118.7763,Asia,Southeast Asia,Philippines,Rita Island (St. Rita Island ),0,"1,998",,1,Low,,,ReefBase,0,PHL
+"1,839",10.083333,118.783333,Asia,Southeast Asia,Philippines,Rita Island (St. Rita Island ),0,"1,998",,-1,Severity Unknown,,,ReefBase,7277,PHL
+91,9.2,123.34,Asia,Southeast Asia,Philippines,Silliman Marine Lab,8,"1,998",,2,Medium,,,Coral Listserver,0,PHL
+"2,669",8.72,119.8,Asia,Southeast Asia,Philippines,"Tubbataha Reefs, Sulu Sea.",8,"1,998",,3,HIGH,100m transect at 10m depth and video transect,,"Arceo, H.O.,  M.C. Quibilan, P.M. Ali±o, G. Lim and W.Y. Licuanan, 1999.   Coral bleaching in the Philippines reefs: coincident evidences with mesoscale thermal anomalies. Bulletin of Marine Science Vol. 69, no. 2.pp. 579-593",,PHL
+200,-9.7509,150.0109,Australia,Australia and Papua New Guinea,Papua New Guinea,Cape Vogel,2,"1,998",,1,Low,,,"Wilkinson, Clive",0,PNG
+156,-5.1503,150.5733,Australia,Australia and Papua New Guinea,Papua New Guinea,"Island of New Britain, nr Bismarck Sea",8,"1,998",,1,Low,,29.5-30,NOAA database,0,PNG
+"2,091",-5.2,150.516667,Australia,Australia and Papua New Guinea,Papua New Guinea,Kimbe Bay,8,"1,998",50,2,Medium,,,ReefBase,8838,PNG
+198,-5.2592,151.0228,Australia,Australia and Papua New Guinea,Papua New Guinea,"Kimbe Bay, New Britain",8,"1,998",,2,Medium,,,"Wilkinson, Clive",0,PNG
+98,-4.9025,151.062,Australia,Australia and Papua New Guinea,Papua New Guinea,NE of Kimbe Bay. Island of New Britain (PNG),8,"1,998",165 ft,2,Medium,,31-31.5,Coral Listserver,0,PNG
+"1,841",-10.116667,151.133333,Australia,Australia and Papua New Guinea,Papua New Guinea,Normanby ( Duau ),3,"1,998",,3,HIGH,,,ReefBase,8838,PNG
+199,-10.1768,151.1928,Australia,Australia and Papua New Guinea,Papua New Guinea,Normanby Island,2,"1,998",,1,Low,,,"Wilkinson, Clive",0,PNG
+49,-9.7357,147.3975,Australia,Australia and Papua New Guinea,Papua New Guinea,Papua New Guinea,5,"1,998",,1,Low,,,NOAA database,0,PNG
+416,-9.2056,150.5861,Australia,Australia and Papua New Guinea,Papua New Guinea,Reefs to north of Fergusson Islands,3,"1,998",,0,No Bleaching,,,"Wilkinson, Clive. http://coral.aoml.noaa.gov/bulls/clive-bleaching.html",0,PNG
+415,-9.924,151.0555,Australia,Australia and Papua New Guinea,Papua New Guinea,Reefs to north of Normanby Islands,3,"1,998",,0,No Bleaching,,,"Wilkinson, Clive. http://coral.aoml.noaa.gov/bulls/clive-bleaching.html",0,PNG
+201,-9.1352,149.3407,Australia,Australia and Papua New Guinea,Papua New Guinea,Tufi,2,"1,998",,1,Low,,,"Wilkinson, Clive",0,PNG
+388,-9.0092,160.1024,Pacific,Southwest Pacific,Solomon Islands,Florida Islands,11,"1,998",,0,No Bleaching,,30-32,Coral Listserver,0,SLB
+385,-9.7951,159.7996,Pacific,Southwest Pacific,Solomon Islands,Guadalcanal,11,"1,998",,0,No Bleaching,,30-32,Coral Listserver,0,SLB
+390,-8.4895,158.1295,Pacific,Southwest Pacific,Solomon Islands,Marovo Lagoon,11,"1,998",,0,No Bleaching,,30-32,Coral Listserver,0,SLB
+389,-8.9979,159.2518,Pacific,Southwest Pacific,Solomon Islands,Russell Islands,11,"1,998",,0,No Bleaching,,30-32,Coral Listserver,0,SLB
+"2,137",13.716667,120.87,Asia,Southeast Asia,Philippines,Arthur's Rock,0,"1,997",,-1,Severity Unknown,,,ReefBase,7034,PHL
+240,13.6884,120.8681,Asia,Southeast Asia,Philippines,Arthur's Rock,0,"1,997",,2,Medium,,,ReefBase,0,PHL
+"2,029",-9.6,147.216667,Australia,Australia and Papua New Guinea,Papua New Guinea,Motupore,0,"1,996",,1,Low,,,ReefBase,6280,PNG
+"2,047",-2.683333,150.566667,Australia,Australia and Papua New Guinea,Papua New Guinea,New Ireland,3,"1,996",0 - 25,3,HIGH,,,ReefBase,6729,PNG
+"1,837",10.383333,122.6,Asia,Southeast Asia,Philippines,Panubulon Island ( Panobolon ),0,"1,995",,-1,Severity Unknown,,,ReefBase,7084,PHL
+"1,840",10.341667,122.595,Asia,Southeast Asia,Philippines,Unisan Island,0,"1,995",,-1,Severity Unknown,,,ReefBase,7084,PHL
+"2,218",16.45,119.916667,Asia,Southeast Asia,Philippines,Silaqui ( Silaki ),10,"1,994",3,2,Medium,,,ReefBase,6356,PHL
+"2,090",-5.866667,110.333333,Asia,Southeast Asia,Indonesia,Karimun Jawa,5,"1,983",15,-1,Severity Unknown,,,ReefBase,388,IDN
+"2,086",-5.866667,106.616667,Asia,Southeast Asia,Indonesia,Pari Island ( Pulau Pari ),4,"1,983",,-1,Severity Unknown,,,ReefBase,625,IDN
+"2,067",-5.833333,106.633333,Asia,Southeast Asia,Indonesia,Pari Islands,0,"1,983",15,-1,Severity Unknown,,,ReefBase,625,IDN
+"2,065",-5.516667,106.483333,Asia,Southeast Asia,Indonesia,Seribu Islands,3,"1,983",0-15,3,HIGH,,,ReefBase,388,IDN
+"2,085",-5.483333,106.4,Asia,Southeast Asia,Indonesia,Tikus Island,0,"1,983",,-1,Severity Unknown,,,ReefBase,625,IDN
+"2,024",9.666667,123.55,Asia,Southeast Asia,Philippines,Alcoy,0,"1,981",,1,Low,,,ReefBase,18,PHL

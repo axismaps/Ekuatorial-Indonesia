@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "district": "SIKKA", "deaths": "0", "injured": "0", "missing": "1500", "affected": "0", "destroyed": "1800", "lightly_damaged_houses": "0", "evacuated": "0", "human_impact": "1500", "economic_impact": "1800" }, "geometry": { "type": "Point", "coordinates": [ 122.303849648764526, -8.610793621565451 ] } },
+{ "type": "Feature", "properties": { "district": "NIAS", "deaths": "50", "injured": "0", "missing": "0", "affected": "0", "destroyed": "0", "lightly_damaged_houses": "0", "evacuated": "0", "human_impact": "50", "economic_impact": "0" }, "geometry": { "type": "Point", "coordinates": [ 97.793070099039141, 0.781449951961701 ] } }
+]
+}

@@ -53,66 +53,24 @@ http://a.tiles.mapbox.com/v3/ekuatorial.gd019cpa/{z}/{x}/{y}.png
 3. _Forestry Concession_ - ekuatorial.indonesia-forestry-concession
 
 #### Legend
-	<div class='my-legend'>
-	<div class='legend-title'>Forestry Concessions</div>
-	<div class='legend-scale'>
-	<ul class='legend-labels'>
-	    <li><span style='background:#984ea3;'></span>Concessions</li> 
-	</ul>
+	<div class='legend' >
+		<div class='lang-en'>
+        	<h6>Forestry Concessions</h6>
+			<div class="key">
+				<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAASCAMAAAANFixgAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAytpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NDkxMSwgMjAxMy8xMC8yOS0xMTo0NzoxNiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6NUQxMjk0RjQ3N0EwMTFFM0IzNkY5MDlBRUIxNTc0QTUiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6MTYxNkM0RDI3NzlFMTFFM0IzNkY5MDlBRUIxNTc0QTUiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5kaWQ6YmZiMGJlZTAtMzdjZi00MzM2LTk2MzMtNGYwZGU4M2MyMmUzIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOmJmYjBiZWUwLTM3Y2YtNDMzNi05NjMzLTRmMGRlODNjMjJlMyIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Pg6jh2gAAAAGUExURZhOo5mZmTfd5O4AAAAZSURBVHjaYmAkABgYGfCCUQUjTQEBABBgAHGyAGFDkLtfAAAAAElFTkSuQmCC" /><span class="label">Concessions</span>
+			</div>
+            <h6>Moratorium Areas</h6>
+			<div class="key">
+				<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAASCAMAAAANFixgAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAytpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NDkxMSwgMjAxMy8xMC8yOS0xMTo0NzoxNiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6NUQxMjk0Rjg3N0EwMTFFM0IzNkY5MDlBRUIxNTc0QTUiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6NUQxMjk0Rjc3N0EwMTFFM0IzNkY5MDlBRUIxNTc0QTUiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5kaWQ6YmZiMGJlZTAtMzdjZi00MzM2LTk2MzMtNGYwZGU4M2MyMmUzIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOmJmYjBiZWUwLTM3Y2YtNDMzNi05NjMzLTRmMGRlODNjMjJlMyIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PhODpa8AAAAGUExUReQaHJmZmcO/HpMAAAAZSURBVHjaYmAkABgYGfCCUQUjTQEBABBgAHGyAGFDkLtfAAAAAElFTkSuQmCC" /><span class="label">Lahan Gambut</span>
+			</div>
+            <div class="key">
+				<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAASCAMAAAANFixgAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAytpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NDkxMSwgMjAxMy8xMC8yOS0xMTo0NzoxNiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6NUQxMjk0RkM3N0EwMTFFM0IzNkY5MDlBRUIxNTc0QTUiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6NUQxMjk0RkI3N0EwMTFFM0IzNkY5MDlBRUIxNTc0QTUiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5kaWQ6YmZiMGJlZTAtMzdjZi00MzM2LTk2MzMtNGYwZGU4M2MyMmUzIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOmJmYjBiZWUwLTM3Y2YtNDMzNi05NjMzLTRmMGRlODNjMjJlMyIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PsGnU+8AAAAGUExURf9/AJmZmeGz/NEAAAAZSURBVHjaYmAkABgYGfCCUQUjTQEBABBgAHGyAGFDkLtfAAAAAElFTkSuQmCC" /><span class="label">Hutan Primer</span>
+			</div>
+            <div class="key">
+				<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAASCAMAAAANFixgAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAytpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NDkxMSwgMjAxMy8xMC8yOS0xMTo0NzoxNiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6QUI3MkU1MUQ3N0ExMTFFM0IzNkY5MDlBRUIxNTc0QTUiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6QUI3MkU1MUM3N0ExMTFFM0IzNkY5MDlBRUIxNTc0QTUiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5kaWQ6YmZiMGJlZTAtMzdjZi00MzM2LTk2MzMtNGYwZGU4M2MyMmUzIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOmJmYjBiZWUwLTM3Y2YtNDMzNi05NjMzLTRmMGRlODNjMjJlMyIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Ph6duU4AAAAGUExURTd+uJmZmfmuL80AAAAZSURBVHjaYmAkABgYGfCCUQUjTQEBABBgAHGyAGFDkLtfAAAAAElFTkSuQmCC" /><span class="label">Kawasan HL and KSPA</span>
+			</div>
+		</div>
 	</div>
-	<div class='legend-title'>Moratorium Areas</div>
-	<div class='legend-scale'>
-	<ul class='legend-labels'>
-	    <li><span style='background:#e41a1c;'></span>Lahan Gambut</li>
-	    <li><span style='background:#ff7f00;'></span>Hutan Primer</li>
-	    <li><span style='background:#377eb8;'></span>Kawasan HL and KSPA</li>
-	</ul>
-	</div>
-	<div class='legend-source'>Source: WRI, BIG, World Database on Protected Areas</div>
-	</div>
-
-
-	<style type='text/css'>
-
-	  .my-legend .legend-title {
-	    text-align: left;
-	    margin-bottom: 5px;
-	    font-weight: bold;
-	    font-size: 100%;
-	    }
-	  .my-legend .legend-scale ul {
-	    margin: 0;
-	    margin-bottom: 5px;
-	    padding: 0;
-	    float: left;
-	    list-style: none;
-	    }
-	  .my-legend .legend-scale ul li {
-	    font-size: 100%;
-	    list-style: none;
-	    margin-left: 0;
-	    line-height: 18px;
-	    margin-bottom: 2px;
-	    }
-	  .my-legend ul.legend-labels li span {
-	    display: block;
-	    float: left;
-	    height: 16px;
-	    width: 30px;
-	    margin-right: 5px;
-	    margin-left: 0;
-	    border: 1px solid #999;
-	    }
-	  .my-legend .legend-source {
-	    font-size: 100%;
-	    color: #999;
-	    clear: both;
-	    width: 150px;
-	    }
-	  .my-legend a {
-	    color: #777;
-	    }
-	</style>
 
 
 HUMAN IMPACT

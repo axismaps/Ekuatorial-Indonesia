@@ -5,13 +5,8 @@ Terrain Base
 http://a.tiles.mapbox.com/v3/ekuatorial.gd019cpa/{z}/{x}/{y}.png
 
 ### FOREST
-
-#### Layers
-1. Global Forest Height
-ekuatorial.indonesia-forest-height
-
-2. Land Ecoregion
-ekuatorial.indonesia-land-ecoregion
+1. _Global Forest Height_ - ekuatorial.indonesia-forest-height
+2. _Land Ecoregion_ - ekuatorial.indonesia-land-ecoregion
 
 #### Legend
 	<div class='legend'>
@@ -50,20 +45,74 @@ ekuatorial.indonesia-land-ecoregion
 			</div>
 		</div>
 	</div>
+---
+
+### MANAGEMENT
+1. _Protected Ares_ - ekuatorial.protected-areas
+2. _Moratorium Areas_ - ekuatorial.moratorium
+3. _Forestry Concession_ - ekuatorial.indonesia-forestry-concession
+
+#### Legend
+	<div class='my-legend'>
+	<div class='legend-title'>Forestry Concessions</div>
+	<div class='legend-scale'>
+	<ul class='legend-labels'>
+	    <li><span style='background:#984ea3;'></span>Concessions</li> 
+	</ul>
+	</div>
+	<div class='legend-title'>Moratorium Areas</div>
+	<div class='legend-scale'>
+	<ul class='legend-labels'>
+	    <li><span style='background:#e41a1c;'></span>Lahan Gambut</li>
+	    <li><span style='background:#ff7f00;'></span>Hutan Primer</li>
+	    <li><span style='background:#377eb8;'></span>Kawasan HL and KSPA</li>
+	</ul>
+	</div>
+	<div class='legend-source'>Source: WRI, BIG, World Database on Protected Areas</div>
+	</div>
 
 
+	<style type='text/css'>
 
-
-MANAGEMENT MAP
-
---Protected Ares
-ekuatorial.protected-areas
-
---Moratorium Areas
-ekuatorial.moratorium
-
---Forestry Concession
-ekuatorial.indonesia-forestry-concession
+	  .my-legend .legend-title {
+	    text-align: left;
+	    margin-bottom: 5px;
+	    font-weight: bold;
+	    font-size: 100%;
+	    }
+	  .my-legend .legend-scale ul {
+	    margin: 0;
+	    margin-bottom: 5px;
+	    padding: 0;
+	    float: left;
+	    list-style: none;
+	    }
+	  .my-legend .legend-scale ul li {
+	    font-size: 100%;
+	    list-style: none;
+	    margin-left: 0;
+	    line-height: 18px;
+	    margin-bottom: 2px;
+	    }
+	  .my-legend ul.legend-labels li span {
+	    display: block;
+	    float: left;
+	    height: 16px;
+	    width: 30px;
+	    margin-right: 5px;
+	    margin-left: 0;
+	    border: 1px solid #999;
+	    }
+	  .my-legend .legend-source {
+	    font-size: 100%;
+	    color: #999;
+	    clear: both;
+	    width: 150px;
+	    }
+	  .my-legend a {
+	    color: #777;
+	    }
+	</style>
 
 
 HUMAN IMPACT

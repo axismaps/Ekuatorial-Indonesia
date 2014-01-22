@@ -238,6 +238,111 @@
 		</div>
 	</div>
 
+#### CartoCSS
+**Coral Reefs**
+	#coralreefs {
+	  polygon-fill: #80f2ff;
+	  polygon-opacity: 0.9;
+	  line-color: #80f2ff;
+	  line-width: 1.5;
+	  line-join: round;
+	  line-opacity: 0.5;
+  
+	  [zoom>=5]{
+	   polygon-opacity: 0.9;
+	   line-color: #80f2ff;
+	   line-width: 1.5;
+	   line-join: round;
+	   line-opacity: 0.7;
+	    }
+	  [zoom>=6]{
+	   polygon-opacity: 0.8;
+	   line-color: #80f2ff;
+	   line-width: 1.5;
+	   line-join: round;
+	   line-opacity: 0.7;
+	    }
+	  [zoom>=7]{
+	   polygon-opacity: 0.8;
+	   line-color: #80f2ff;
+	   line-width: 1.4;
+	   line-join: round;
+	   line-opacity: 0.8;
+	    }
+	  [zoom>=8]{
+	   polygon-opacity: 0.7;
+	   line-color: #80f2ff;
+	   line-width: 1.3;
+	   line-join: round;
+	   line-opacity: 0.8;
+	    }
+	  [zoom=9]{
+	    polygon-opacity: 0.6;
+	    line-color: #80f2ff;
+	    line-width: 1.2;
+	    line-join: round;
+	    line-opacity: 0.9;
+	    }
+	  [zoom=10]{
+	    polygon-opacity: 0.5;
+	    line-color: #80f2ff;
+	    line-width: 1.1;
+	    line-join: round;
+	    line-opacity: 0.9;
+	    }
+	   [zoom=11]{
+	    polygon-opacity: 0.5;
+	    line-color: #80f2ff;
+	    line-width: 1;
+	    line-join: round;
+	    line-opacity: 1;
+	    }
+	  }
+
+**Coral Bleaching**
+	#coral_bleaching{
+	  marker-width: 8;
+	  marker-opacity: 0.8;
+	  marker-line-width: 1;
+	  marker-line-color: #333;
+	  marker-line-opacity: .8;
+	  marker-allow-overlap: true;
+	   [zoom>=6]{
+	   marker-width: 9;
+	    }
+	   [zoom>=7]{
+	   marker-width: 10;
+	    }
+	   [zoom>=8]{
+	   marker-width: 11;
+	    }
+	   [zoom>=9]{
+	   marker-width: 12;
+	    }
+	   [zoom>=10]{
+	   marker-width: 13;
+	    }
+	   [zoom>=11]{
+	   marker-width: 14;
+	    }
+	}
+
+
+	#coral_bleaching [ severity = 3] {
+	   marker-fill: #cb181d;
+	}
+	#coral_bleaching [ severity = 2] {
+	   marker-fill: #fb6a4a;
+	}
+	#coral_bleaching [ severity = 1] {
+	   marker-fill: #fcae91;
+	}
+	#coral_bleaching [ severity = 0] {
+	   marker-fill: #fff;
+	}
+	#coral_bleaching [ severity = -1] {
+	   marker-fill: #666;
+	}
 
 ECOLOGY
 

@@ -71,13 +71,125 @@ http://a.tiles.mapbox.com/v3/ekuatorial.gd019cpa/{z}/{x}/{y}.png
 			</div>
 		</div>
 	</div>
+---
 
+### HUMAN IMPACT
 
-HUMAN IMPACT
+1. _Deforestation 2000-2009_ - ekuatorial.indonesia-deforestation-2000-2009
 
---Deforestation 2000-2009
-ekuatorial.indonesia-deforestation-2000-2009
+#### Legend
+	<div class='legend' >
+		<div class='lang-en'>
+        	<h6>Deforestation</h6>
+			<div class="key">
+				<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAASCAMAAAANFixgAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA3NpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NDkxMSwgMjAxMy8xMC8yOS0xMTo0NzoxNiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDpiZmIwYmVlMC0zN2NmLTQzMzYtOTYzMy00ZjBkZTgzYzIyZTMiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6MUVEODU0NjY3Qjc5MTFFMzlFQTVBNDQwOUM3NjdGQTIiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6MUVEODU0NjU3Qjc5MTFFMzlFQTVBNDQwOUM3NjdGQTIiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6YTk4MTEyMWItM2U5MC00MjgxLTliNDEtMzU5YjljMmJhMGEwIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOmJmYjBiZWUwLTM3Y2YtNDMzNi05NjMzLTRmMGRlODNjMjJlMyIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PjOxBH4AAAAGUExURchJQZmZmfUFuboAAAAZSURBVHjaYmAkABgYGfCCUQUjTQEBABBgAHGyAGFDkLtfAAAAAElFTkSuQmCC" /><span class="label">2000</span>
+			</div>
+			<div class="key">
+				<img alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAASCAMAAAANFixgAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA3NpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NDkxMSwgMjAxMy8xMC8yOS0xMTo0NzoxNiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDpiZmIwYmVlMC0zN2NmLTQzMzYtOTYzMy00ZjBkZTgzYzIyZTMiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6MUVEODU0NkE3Qjc5MTFFMzlFQTVBNDQwOUM3NjdGQTIiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6MUVEODU0Njk3Qjc5MTFFMzlFQTVBNDQwOUM3NjdGQTIiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6YTk4MTEyMWItM2U5MC00MjgxLTliNDEtMzU5YjljMmJhMGEwIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOmJmYjBiZWUwLTM3Y2YtNDMzNi05NjMzLTRmMGRlODNjMjJlMyIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PvEd7d4AAAAGUExURcqSZpmZmXsNwX4AAAAZSURBVHjaYmAkABgYGfCCUQUjTQEBABBgAHGyAGFDkLtfAAAAAElFTkSuQmCC" /><span class="label">2009</span>
+			</div>
+		</div>
+	</div>
 
+#### CartoCSS
+	#babel {
+	  [FC_2000 = "2000"]{
+	  polygon-fill: #c61226;
+	  polygon-opacity: 0.3;
+	    }
+	  [FC_2009 = "2009"]{
+	  polygon-fill: #c61226;
+	  polygon-opacity: 0.7;
+	    }
+	}
+
+	#bali {
+	  [FC_2000 = "2000"]{
+	  polygon-fill: #c61226;
+	  polygon-opacity: 0.3;
+	    }
+	  [FC_2009 = "2009"]{
+	  polygon-fill: #c61226;
+	  polygon-opacity: 0.7;
+	    }
+	}
+
+	#banten {
+	  [FC_2000 = "2000"]{
+	  polygon-fill: #c61226;
+	  polygon-opacity: 0.3;
+	    }
+	  [FC_2009 = "2009"]{
+	  polygon-fill: #c61226;
+	  polygon-opacity: 0.7;
+	    }
+	}
+
+	#bengkulu {
+	  [FC_2000 = "2000"]{
+	  polygon-fill: #c61226;
+	  polygon-opacity: 0.3;
+	    }
+	  [FC_2009 = "2009"]{
+	  polygon-fill: #c61226;
+	  polygon-opacity: 0.7;
+	    }
+	}
+
+	#gorontalo {
+	  [FC_2000 = "2000"]{
+	  polygon-fill: #c61226;
+	  polygon-opacity: 0.3;
+	    }
+	  [FC_2009 = "2009"]{
+	  polygon-fill: #c61226;
+	  polygon-opacity: 0.7;
+	    }
+	}
+
+	#jabar {
+	  [FC_2000 = "2000"]{
+	  polygon-fill: #c61226;
+	  polygon-opacity: 0.3;
+	    }
+	  [FC_2009 = "2009"]{
+	  polygon-fill: #c61226;
+	  polygon-opacity: 0.7;
+	    }
+	}
+
+	#jambi {
+	  [FC_2000 = "2000"]{
+	  polygon-fill: #c61226;
+	  polygon-opacity: 0.3;
+	    }
+	  [FC_2009 = "2009"]{
+	  polygon-fill: #c61226;
+	  polygon-opacity: 0.7;
+	    }
+	}
+
+	#jateng {
+	  [FC_2000 = "2000"]{
+	  polygon-fill: #c61226;
+	  polygon-opacity: 0.3;
+	    }
+	  [FC_2009 = "2009"]{
+	  polygon-fill: #c61226;
+	  polygon-opacity: 0.7;
+	    }
+	}
+
+	#jatim {
+	  [FC_2000 = "2000"]{
+	  polygon-fill: #c61226;
+	  polygon-opacity: 0.3;
+	    }
+	  [FC_2009 = "2009"]{
+	  polygon-fill: #c61226;
+	  polygon-opacity: 0.7;
+	    }
+	}
+---
 
 INDUSTRY
 

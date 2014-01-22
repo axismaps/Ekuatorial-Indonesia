@@ -191,19 +191,11 @@ http://a.tiles.mapbox.com/v3/ekuatorial.gd019cpa/{z}/{x}/{y}.png
 	}
 ---
 
-INDUSTRY
+### INDUSTRY
 
---Oil Palm Plantations
-ekuatorial.oil-palm-plantations
+1. _Oil Palm Plantations_ - ekuatorial.oil-palm-plantations
 
-
-
-
-
-
-
-
-
+---
 
 ***OCEANS MAP GROUP***
 

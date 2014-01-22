@@ -326,8 +326,6 @@
 	   marker-width: 14;
 	    }
 	}
-
-
 	#coral_bleaching [ severity = 3] {
 	   marker-fill: #cb181d;
 	}
@@ -344,24 +342,73 @@
 	   marker-fill: #666;
 	}
 
-ECOLOGY
+### ECOLOGY
+1. _Seagrass_ - ekuatorial.indonesia-seagrass
+2. _Mangroves_ - ekuatorial.indonesia-mangroves
+3. _Marine Biodiversity_ - http://ekuatorial.cartodb.com/api/v2/viz/b6bfad9c-69be-11e3-9a3f-dd01dc5e80a2/viz.json
 
---Seagrass
-ekuatorial.indonesia-seagrass
+#### Legend
+	<div class='legend' >
+		<div class='lang-en'>
+			<div class="l3-deforestation key">
+				<img src=‘data:...' /><span class="label">Deforested Jan - Mar 2012 </span>
+			</div>
+			<div class="r-deforestation key">
+				<img src=‘data:...' /><span class="label">Deforested 2005-2011</span>
+			</div>
+		</div> 
+	</div>
 
---Mangroves
-ekuatorial.indonesia-mangroves
 
---Marine Biodiversity
-http://ekuatorial.cartodb.com/api/v2/viz/b6bfad9c-69be-11e3-9a3f-dd01dc5e80a2/viz.json
+### HUMAN IMPACT
+1. _Marine Protected Areas_ - ekuatorial.marine-protected-areas
+2. _Shipping Lanes_ - axismaps.shipping
 
+#### Legend
+	<div class='legend' >
+    	<h6>Shipping Lanes</h6>
+		<div class='lang-en'>
+			<div class="key">
+				<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAASCAMAAAANFixgAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA3NpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NDkxMSwgMjAxMy8xMC8yOS0xMTo0NzoxNiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDpiZmIwYmVlMC0zN2NmLTQzMzYtOTYzMy00ZjBkZTgzYzIyZTMiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6QUUxQTBDQjM3QkJGMTFFMzlFQTVBNDQwOUM3NjdGQTIiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6QUUxQTBDQjI3QkJGMTFFMzlFQTVBNDQwOUM3NjdGQTIiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6M2UyNjlmNGEtNTIwYy00ZGFmLTk0YzctZWJjMWQ1MjdkOTgxIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOmJmYjBiZWUwLTM3Y2YtNDMzNi05NjMzLTRmMGRlODNjMjJlMyIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Pqd6tkEAAAAGUExUReQaHJmZmcO/HpMAAAAZSURBVHjaYmAkABgYGfCCUQUjTQEBABBgAHGyAGFDkLtfAAAAAElFTkSuQmCC" /><span class="label">Cargo</span>
+			</div>
+			<div class="key">
+				<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAASCAMAAAANFixgAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA3NpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NDkxMSwgMjAxMy8xMC8yOS0xMTo0NzoxNiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDpiZmIwYmVlMC0zN2NmLTQzMzYtOTYzMy00ZjBkZTgzYzIyZTMiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6QUUxQTBDQjc3QkJGMTFFMzlFQTVBNDQwOUM3NjdGQTIiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6QUUxQTBDQjY3QkJGMTFFMzlFQTVBNDQwOUM3NjdGQTIiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6M2UyNjlmNGEtNTIwYy00ZGFmLTk0YzctZWJjMWQ1MjdkOTgxIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOmJmYjBiZWUwLTM3Y2YtNDMzNi05NjMzLTRmMGRlODNjMjJlMyIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Podnx0MAAAAGUExURU2vSpmZmcvtia8AAAAZSURBVHjaYmAkABgYGfCCUQUjTQEBABBgAHGyAGFDkLtfAAAAAElFTkSuQmCC" /><span class="label">Tanker</span>
+			</div>
+            <div class="key">
+				<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAASCAMAAAANFixgAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA3NpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NDkxMSwgMjAxMy8xMC8yOS0xMTo0NzoxNiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDpiZmIwYmVlMC0zN2NmLTQzMzYtOTYzMy00ZjBkZTgzYzIyZTMiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6RjVENjVBODY3QkJGMTFFMzlFQTVBNDQwOUM3NjdGQTIiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6QUUxQTBDQkE3QkJGMTFFMzlFQTVBNDQwOUM3NjdGQTIiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6M2UyNjlmNGEtNTIwYy00ZGFmLTk0YzctZWJjMWQ1MjdkOTgxIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOmJmYjBiZWUwLTM3Y2YtNDMzNi05NjMzLTRmMGRlODNjMjJlMyIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PvdFfIMAAAAGUExURZhOo5mZmTfd5O4AAAAZSURBVHjaYmAkABgYGfCCUQUjTQEBABBgAHGyAGFDkLtfAAAAAElFTkSuQmCC" /><span class="label">Tug</span>
+			</div>
+            <div class="key">
+				<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAASCAMAAAANFixgAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA3NpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NDkxMSwgMjAxMy8xMC8yOS0xMTo0NzoxNiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDpiZmIwYmVlMC0zN2NmLTQzMzYtOTYzMy00ZjBkZTgzYzIyZTMiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6RjVENjVBOEE3QkJGMTFFMzlFQTVBNDQwOUM3NjdGQTIiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6RjVENjVBODk3QkJGMTFFMzlFQTVBNDQwOUM3NjdGQTIiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6M2UyNjlmNGEtNTIwYy00ZGFmLTk0YzctZWJjMWQ1MjdkOTgxIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOmJmYjBiZWUwLTM3Y2YtNDMzNi05NjMzLTRmMGRlODNjMjJlMyIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PqRZPNgAAAAGUExURf9/AJmZmeGz/NEAAAAZSURBVHjaYmAkABgYGfCCUQUjTQEBABBgAHGyAGFDkLtfAAAAAElFTkSuQmCC" /><span class="label">Passenger</span>
+			</div>
+		</div>
+	</div>
 
-HUMAN IMPACT
---Marine Protected Areas
-ekuatorial.marine-protected-areas
-
---Shipping Lanes
-axismaps.shipping
+#### CartoCSS
+**Shipping Lanes**
+	#ships {
+	  marker-width:.5;
+	  [zoom >= 8 ]{
+	    marker-width: 2;
+	  }
+	  [zoom >= 10 ]{
+	    marker-width: 3;
+	  }
+	  marker-fill:#ffff33;
+	  marker-allow-overlap:true;
+	  marker-line-opacity:0;
+	  [category='Cargo']{
+	    marker-fill:#e41a1c;
+	  }
+	  [category='Tanker']{
+	    marker-fill:#4daf4a;
+	  }
+	  [category='Tug']{
+	    marker-fill:#984ea3;
+	  }
+	  [category='Passenger']{
+	    marker-fill:#ff7f00;
+	  }
+	}
 
 
 COMMERCE

@@ -353,7 +353,7 @@
 			<div class="key">
 				<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAASCAMAAAANFixgAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA3NpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NDkxMSwgMjAxMy8xMC8yOS0xMTo0NzoxNiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDpiZmIwYmVlMC0zN2NmLTQzMzYtOTYzMy00ZjBkZTgzYzIyZTMiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6ODMyRUZDOTU3QkYyMTFFMzlFQTVBNDQwOUM3NjdGQTIiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6ODMyRUZDOTQ3QkYyMTFFMzlFQTVBNDQwOUM3NjdGQTIiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6M2UyNjlmNGEtNTIwYy00ZGFmLTk0YzctZWJjMWQ1MjdkOTgxIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOmJmYjBiZWUwLTM3Y2YtNDMzNi05NjMzLTRmMGRlODNjMjJlMyIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PmcORRgAAAAGUExURaruiFWZRBmsNKwAAAAcSURBVHjaYmAkABiIUMCAB4wqGGoKKEwPAAEGANfKALmtS6WNAAAAAElFTkSuQmCC" /><span class="label">Seagrass</span>
 			</div>
-			<div class="r-deforestation key">
+			<div class="key">
 				<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAASCAMAAAANFixgAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA3NpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NDkxMSwgMjAxMy8xMC8yOS0xMTo0NzoxNiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDpiZmIwYmVlMC0zN2NmLTQzMzYtOTYzMy00ZjBkZTgzYzIyZTMiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6ODMyRUZDOTk3QkYyMTFFMzlFQTVBNDQwOUM3NjdGQTIiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6ODMyRUZDOTg3QkYyMTFFMzlFQTVBNDQwOUM3NjdGQTIiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6M2UyNjlmNGEtNTIwYy00ZGFmLTk0YzctZWJjMWQ1MjdkOTgxIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOmJmYjBiZWUwLTM3Y2YtNDMzNi05NjMzLTRmMGRlODNjMjJlMyIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Pgcp1h4AAAAGUExURaNxwkA6Q5j/du4AAAAcSURBVHjaYmAkABiIUMCAB4wqGGoKKEwPAAEGANfKALmtS6WNAAAAAElFTkSuQmCC" /><span class="label">Mangroves</span>
 			</div>
 		</div> 
@@ -514,7 +514,7 @@
 
 ### HUMAN IMPACT
 1. _Marine Protected Areas_ - ekuatorial.marine-protected-areas
-2. _Shipping Lanes_ - axismaps.shipping
+2. _Shipping Lanes_ - ekuatorial.9e68xy07
 
 #### Legend
 	<div class='legend' >
@@ -539,7 +539,7 @@
 	</div>
 
 #### CartoCSS
-**Marine Protected Areas**
+##### Marine Protected Areas
 	#marine_protected_areas [country="IDN"],[country="MYS"],[country="BRN"],[country="IND"],[country="SGP"]{
 	  polygon-fill: #c61226;
 	  polygon-opacity: 0.2;
@@ -548,7 +548,7 @@
 	  line-opacity: 0.6;
 	}
 
-**Shipping Lanes**
+##### Shipping Lanes
 	#ships {
 	  marker-width:.5;
 	  [zoom >= 8 ]{
@@ -575,25 +575,58 @@
 	}
 
 
-COMMERCE
+### COMMERCE
+1. _Shipping Lanes_ - ekuatorial.9e68xy07
+2. _Port Facilities_ - http://ekuatorial.cartodb.com/api/v2/viz/e86770ae-69ba-11e3-9b74-e704e8f3700f/viz.json
+3. _Current Ship Position_ - http://ekuatorial.cartodb.com/api/v2/viz/31d1de3c-69bb-11e3-ba2e-13b3542aa1be/viz.json
+4. _Piracy_ - http://ekuatorial.cartodb.com/api/v2/viz/b56b10c2-69b8-11e3-9a14-7d13fada2833/viz.json
+5. Marine Accidents - http://ekuatorial.cartodb.com/api/v2/viz/c92ea336-69b7-11e3-94d8-7597dcc9cecb/viz.json
 
---Shipping Lanes
-axismaps.shipping
+#### Legend
+	<div class='legend' >
+		<div class='lang-en'>
+			<h6>Shipping Lanes</h6>
+			<div class="key">
+				<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAASCAMAAAANFixgAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA3NpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NDkxMSwgMjAxMy8xMC8yOS0xMTo0NzoxNiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDpiZmIwYmVlMC0zN2NmLTQzMzYtOTYzMy00ZjBkZTgzYzIyZTMiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6QUUxQTBDQjM3QkJGMTFFMzlFQTVBNDQwOUM3NjdGQTIiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6QUUxQTBDQjI3QkJGMTFFMzlFQTVBNDQwOUM3NjdGQTIiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6M2UyNjlmNGEtNTIwYy00ZGFmLTk0YzctZWJjMWQ1MjdkOTgxIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOmJmYjBiZWUwLTM3Y2YtNDMzNi05NjMzLTRmMGRlODNjMjJlMyIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Pqd6tkEAAAAGUExUReQaHJmZmcO/HpMAAAAZSURBVHjaYmAkABgYGfCCUQUjTQEBABBgAHGyAGFDkLtfAAAAAElFTkSuQmCC" /><span class="label">Cargo</span>
+			</div>
+			<div class="key">
+				<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAASCAMAAAANFixgAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA3NpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NDkxMSwgMjAxMy8xMC8yOS0xMTo0NzoxNiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDpiZmIwYmVlMC0zN2NmLTQzMzYtOTYzMy00ZjBkZTgzYzIyZTMiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6QUUxQTBDQjc3QkJGMTFFMzlFQTVBNDQwOUM3NjdGQTIiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6QUUxQTBDQjY3QkJGMTFFMzlFQTVBNDQwOUM3NjdGQTIiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6M2UyNjlmNGEtNTIwYy00ZGFmLTk0YzctZWJjMWQ1MjdkOTgxIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOmJmYjBiZWUwLTM3Y2YtNDMzNi05NjMzLTRmMGRlODNjMjJlMyIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Podnx0MAAAAGUExURU2vSpmZmcvtia8AAAAZSURBVHjaYmAkABgYGfCCUQUjTQEBABBgAHGyAGFDkLtfAAAAAElFTkSuQmCC" /><span class="label">Tanker</span>
+			</div>
+            <div class="key">
+				<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAASCAMAAAANFixgAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA3NpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NDkxMSwgMjAxMy8xMC8yOS0xMTo0NzoxNiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDpiZmIwYmVlMC0zN2NmLTQzMzYtOTYzMy00ZjBkZTgzYzIyZTMiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6RjVENjVBODY3QkJGMTFFMzlFQTVBNDQwOUM3NjdGQTIiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6QUUxQTBDQkE3QkJGMTFFMzlFQTVBNDQwOUM3NjdGQTIiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6M2UyNjlmNGEtNTIwYy00ZGFmLTk0YzctZWJjMWQ1MjdkOTgxIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOmJmYjBiZWUwLTM3Y2YtNDMzNi05NjMzLTRmMGRlODNjMjJlMyIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PvdFfIMAAAAGUExURZhOo5mZmTfd5O4AAAAZSURBVHjaYmAkABgYGfCCUQUjTQEBABBgAHGyAGFDkLtfAAAAAElFTkSuQmCC" /><span class="label">Tug</span>
+			</div>
+            <div class="key">
+				<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAASCAMAAAANFixgAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA3NpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NDkxMSwgMjAxMy8xMC8yOS0xMTo0NzoxNiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDpiZmIwYmVlMC0zN2NmLTQzMzYtOTYzMy00ZjBkZTgzYzIyZTMiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6RjVENjVBOEE3QkJGMTFFMzlFQTVBNDQwOUM3NjdGQTIiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6RjVENjVBODk3QkJGMTFFMzlFQTVBNDQwOUM3NjdGQTIiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6M2UyNjlmNGEtNTIwYy00ZGFmLTk0YzctZWJjMWQ1MjdkOTgxIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOmJmYjBiZWUwLTM3Y2YtNDMzNi05NjMzLTRmMGRlODNjMjJlMyIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PqRZPNgAAAAGUExURf9/AJmZmeGz/NEAAAAZSURBVHjaYmAkABgYGfCCUQUjTQEBABBgAHGyAGFDkLtfAAAAAElFTkSuQmCC" /><span class="label">Passenger</span>
+			</div>
+		</div>
+	</div>
 
---Port Facilities
-http://ekuatorial.cartodb.com/api/v2/viz/e86770ae-69ba-11e3-9b74-e704e8f3700f/viz.json
-
---Current Ship Position
-http://ekuatorial.cartodb.com/api/v2/viz/31d1de3c-69bb-11e3-ba2e-13b3542aa1be/viz.json
-
---Piracy
-http://ekuatorial.cartodb.com/api/v2/viz/b56b10c2-69b8-11e3-9a14-7d13fada2833/viz.json
-
---Marine Accidents
-http://ekuatorial.cartodb.com/api/v2/viz/c92ea336-69b7-11e3-94d8-7597dcc9cecb/viz.json
-
-
-
+#### CartoCSS
+##### Shipping Lanes
+	#ships {
+	  marker-width:.5;
+	  [zoom >= 8 ]{
+	    marker-width: 2;
+	  }
+	  [zoom >= 10 ]{
+	    marker-width: 3;
+	  }
+	  marker-fill:#ffff33;
+	  marker-allow-overlap:true;
+	  marker-line-opacity:0;
+	  [category='Cargo']{
+	    marker-fill:#e41a1c;
+	  }
+	  [category='Tanker']{
+	    marker-fill:#4daf4a;
+	  }
+	  [category='Tug']{
+	    marker-fill:#984ea3;
+	  }
+	  [category='Passenger']{
+	    marker-fill:#ff7f00;
+	  }
+	}
 
 
 

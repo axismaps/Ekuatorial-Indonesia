@@ -393,6 +393,9 @@
             <div class="key">
 				<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAASCAMAAAANFixgAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA3NpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NDkxMSwgMjAxMy8xMC8yOS0xMTo0NzoxNiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDpiZmIwYmVlMC0zN2NmLTQzMzYtOTYzMy00ZjBkZTgzYzIyZTMiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6RjVENjVBOEE3QkJGMTFFMzlFQTVBNDQwOUM3NjdGQTIiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6RjVENjVBODk3QkJGMTFFMzlFQTVBNDQwOUM3NjdGQTIiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6M2UyNjlmNGEtNTIwYy00ZGFmLTk0YzctZWJjMWQ1MjdkOTgxIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOmJmYjBiZWUwLTM3Y2YtNDMzNi05NjMzLTRmMGRlODNjMjJlMyIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PqRZPNgAAAAGUExURf9/AJmZmeGz/NEAAAAZSURBVHjaYmAkABgYGfCCUQUjTQEBABBgAHGyAGFDkLtfAAAAAElFTkSuQmCC" /><span class="label">Passenger</span>
 			</div>
+			<div class="key">
+				<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAASCAMAAAANFixgAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA3NpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NDkxMSwgMjAxMy8xMC8yOS0xMTo0NzoxNiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDpiZmIwYmVlMC0zN2NmLTQzMzYtOTYzMy00ZjBkZTgzYzIyZTMiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6ODMyRUZDOUQ3QkYyMTFFMzlFQTVBNDQwOUM3NjdGQTIiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6ODMyRUZDOUM3QkYyMTFFMzlFQTVBNDQwOUM3NjdGQTIiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6ZjNhMjg3NjItYTlhMi00Y2MyLTliYzEtMWMxZWExMTNiNDQ4IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOmJmYjBiZWUwLTM3Y2YtNDMzNi05NjMzLTRmMGRlODNjMjJlMyIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Pgme1lgAAAHUUExURTMzM1aTvjIyMjQ0NP///zExMSgoKC8vLysrKyMjIyEhIScnJzAwMFWSvkeJuIWxzy4uLikpKWNiYiIiIioqKiYmJiwsLB8fH0uMumxra2tra1qWvyQkJFSSvlWTvj09PVORvVSSvVGPvFWTvZS716LE2zAxMUeKuFOQvZvB2VKRvUCGtm9ubvj6/Hx8fH9/f/j08vj7/b++vJ2cnNLi7djW1aOiolSRvvr9/oSwz/j9/zc3N66urvL4+5q/2VdXV+Pr8WeexKKioeLu9mGZwdPQz9Xj7anI3q/N4d3e3VhYV7KxsExLS+Hj473X5szh7yAgIElJSfTx70iKuVeUviMiInNzc1VVVfr4+MPX5R4eHlyXwYyMjJm/2L27umqhxleUv0lKSj49PYWEhFKQvPDv7VWUvvTx8dLj7vDx8sjIyLe3tz8/P+Xg3i0tLVFRUNLS0OXm5+3u8ODe3Mvd6e7v74yLi8LBv1GQvT8+PlGQvIWFhb3X55O61f/8+vn//zo5OVGQu7bR4vj29EqLucrg7enw9ERDQ+Hw+M7NzHqpysTCwevp6eby+nx7ejs7O0mKudHh7J2dnG9ubenm5E6Ou7rV5zg4OHqqy2JiYYu10kSIt+1fh7EAAAESSURBVHjaYmAgATCzc3OJc7KxMuOS55aXLJtUPZOJA7sKNUGprMJM3SLf7HA2bPLsIjGltn61/Hathp5hwkwY8kyhUqm9lsrmCorSsVYF+aIYCtjauy1mtSjwyvFWpaiyOOUJoCsIEDKoSVNiBAGJ+A5XH250G7j6WDRnK4MVVCRMCxLiQlfAmcyiog2WZ9Rq9KiTFEe3Imoyi3uwLFjB1Gj/XHsZdAWcXlOcHdVDgPJyfDPqy/tFMIKBw5ilSWmCLKMGn0tGsx5mQDDLVHayRHYpSkjzm7DYCGILbdFEowiHiSVubelm8mzYYoNJzFo/rrjH1FuHVQxHdAowNeQEJk1nZceZIJhYeXh4WFHdBxBgAIXHMlZevocJAAAAAElFTkSuQmCC" /><span class=“label”>Port Facilities</span>
+			</div>
 		</div>
 	</div>
 
@@ -420,5 +423,43 @@
 	  }
 	  [category='Passenger']{
 	    marker-fill:#ff7f00;
+	  }
+	}
+
+#### Port Facilities
+	#ports{
+	  marker-opacity: 0.9;
+	  marker-line-color: #FFF;
+	  marker-line-width: 1.5;
+	  marker-line-opacity: 1;
+	  marker-placement: point;
+	  marker-type: ellipse;
+	  marker-width: 8;
+	  marker-fill: #5CA2D1;
+	  marker-allow-overlap: true;
+  
+	  [zoom>=5]{
+	    marker-width: 9;
+	  }
+  
+	  [zoom>=6]{
+	    marker-width: 9.5;
+	  }
+  
+	  [zoom>=7]{
+	    marker-width: 10.5;
+	  }
+  
+	  [zoom>=8]{
+	    marker-width: 11.5;
+	    marker-line-width: 2;
+	  }
+  
+	  [zoom>=9]{
+	    marker-width: 13;
+	  }
+  
+	  [zoom>=10]{
+	    marker-width: 15;
 	  }
 	}

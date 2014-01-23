@@ -239,7 +239,7 @@
 	</div>
 
 #### CartoCSS
-**Coral Reefs**
+##### Coral Reefs
 	#coralreefs {
 	  polygon-fill: #80f2ff;
 	  polygon-opacity: 0.9;
@@ -299,7 +299,7 @@
 	    }
 	  }
 
-**Coral Bleaching**
+##### Coral Bleaching
 	#coral_bleaching{
 	  marker-width: 8;
 	  marker-opacity: 0.8;
@@ -350,15 +350,167 @@
 #### Legend
 	<div class='legend' >
 		<div class='lang-en'>
-			<div class="l3-deforestation key">
-				<img src=‘data:...' /><span class="label">Deforested Jan - Mar 2012 </span>
+			<div class="key">
+				<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAASCAMAAAANFixgAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA3NpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NDkxMSwgMjAxMy8xMC8yOS0xMTo0NzoxNiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDpiZmIwYmVlMC0zN2NmLTQzMzYtOTYzMy00ZjBkZTgzYzIyZTMiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6ODMyRUZDOTU3QkYyMTFFMzlFQTVBNDQwOUM3NjdGQTIiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6ODMyRUZDOTQ3QkYyMTFFMzlFQTVBNDQwOUM3NjdGQTIiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6M2UyNjlmNGEtNTIwYy00ZGFmLTk0YzctZWJjMWQ1MjdkOTgxIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOmJmYjBiZWUwLTM3Y2YtNDMzNi05NjMzLTRmMGRlODNjMjJlMyIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PmcORRgAAAAGUExURaruiFWZRBmsNKwAAAAcSURBVHjaYmAkABiIUMCAB4wqGGoKKEwPAAEGANfKALmtS6WNAAAAAElFTkSuQmCC" /><span class="label">Seagrass</span>
 			</div>
 			<div class="r-deforestation key">
-				<img src=‘data:...' /><span class="label">Deforested 2005-2011</span>
+				<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAASCAMAAAANFixgAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA3NpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NDkxMSwgMjAxMy8xMC8yOS0xMTo0NzoxNiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDpiZmIwYmVlMC0zN2NmLTQzMzYtOTYzMy00ZjBkZTgzYzIyZTMiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6ODMyRUZDOTk3QkYyMTFFMzlFQTVBNDQwOUM3NjdGQTIiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6ODMyRUZDOTg3QkYyMTFFMzlFQTVBNDQwOUM3NjdGQTIiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6M2UyNjlmNGEtNTIwYy00ZGFmLTk0YzctZWJjMWQ1MjdkOTgxIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOmJmYjBiZWUwLTM3Y2YtNDMzNi05NjMzLTRmMGRlODNjMjJlMyIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Pgcp1h4AAAAGUExURaNxwkA6Q5j/du4AAAAcSURBVHjaYmAkABiIUMCAB4wqGGoKKEwPAAEGANfKALmtS6WNAAAAAElFTkSuQmCC" /><span class="label">Mangroves</span>
 			</div>
 		</div> 
 	</div>
 
+#### CartoCSS
+##### Seagrass
+
+	#seagrass [ISO3="IDN"],[ISO3="MYS"],[ISO3="BRN"],[ISO3="SGP"]{
+	  ::stroke {
+	  marker-type: ellipse;
+	  marker-width: 8;
+	  marker-height: 8;
+	  marker-line-width: 0;
+	  marker-fill: #594;
+	  marker-opacity: 0.3;
+	  marker-allow-overlap:true;
+  
+	  [zoom>=5]{
+	    marker-width: 10;
+	    marker-height: 10;
+	    }
+	  [zoom=6]{
+	    marker-width: 12;
+	    marker-height: 12;
+	    }
+	  [zoom=7]{
+	    marker-width: 14;
+	    marker-height: 14;
+	    }
+	   [zoom=8]{
+	    marker-width: 16;
+	    marker-height: 16;
+	    }
+	  [zoom=9]{
+	    marker-width: 18;
+	    marker-height: 18;
+	    }
+	  [zoom=10]{
+	    marker-width: 20;
+	    marker-height: 20;
+	    }
+	   [zoom=11]{
+	    marker-width: 22;
+	    marker-height: 22;
+	    }
+	}
+	  ::fill {
+	  marker-type: ellipse;
+	  marker-width: 4;
+	  marker-height: 4;
+	  marker-fill: #594;
+	  marker-line-width: 1;
+	  marker-line-color: #ae8;
+	  marker-opacity: 0.3;
+	  marker-allow-overlap:true;
+  
+	  [zoom>=5]{
+	    marker-width: 5;
+	    marker-height: 5;
+	    }
+	  [zoom=6]{
+	    marker-width: 6;
+	    marker-height: 6;
+	    }
+	  [zoom=7]{
+	    marker-width: 7;
+	    marker-height: 7;
+	    }
+	   [zoom=8]{
+	    marker-width: 8;
+	    marker-height: 8;
+	    }
+	  [zoom=9]{
+	    marker-width: 9;
+	    marker-height: 9;
+	    }
+	  [zoom=10]{
+	    marker-width: 10;
+	    marker-height: 10;
+	    }
+	   [zoom=11]{
+	    marker-width: 11;
+	    marker-height: 11;
+	    }
+	  }
+	}
+	#seagrass-poly [ISO3="IDN"],[ISO3="MYS"],[ISO3="BRN"],[ISO3="SGP"]{
+	  ::outline {
+	    line-color: #594;
+	    line-width: 2;
+	    line-join: round;
+	  }
+	  polygon-fill: #ae8;
+	  polygon-opacity: 0.8;
+	  }
+
+##### Mangroves
+	#mangroves [ISO3="IDN"],[ISO3="MYS"],[ISO3="BRN"],[ISO3="SGP"]{
+	  polygon-fill: #af78d1;
+	  polygon-opacity: 0.9;
+	  line-color: #af78d1;
+	  line-width: 1.5;
+	  line-join: round;
+	  line-opacity: 0.1;
+  
+	  [zoom>=5]{
+	   polygon-opacity: 0.9;
+	   line-color: #af78d1;
+	   line-width: 1.4;
+	   line-join: round;
+	   line-opacity: 0.2;
+	    }
+	  [zoom>=6]{
+	   polygon-opacity: 0.8;
+	   line-color: #af78d1;
+	   line-width: 1.3;
+	   line-join: round;
+	   line-opacity: 0.2;
+	    }
+	  [zoom>=7]{
+	   polygon-opacity: 0.8;
+	   line-color: #af78d1;
+	   line-width: 1.2;
+	   line-join: round;
+	   line-opacity: 0.2;
+	    }
+	  [zoom>=8]{
+	   polygon-opacity: 0.7;
+	   line-color: #af78d1;
+	   line-width: 1.1;
+	   line-join: round;
+	   line-opacity: 0.4;
+	    }
+	  [zoom=9]{
+	    polygon-opacity: 0.6;
+	    line-color: #af78d1;
+	    line-width: 1;
+	    line-join: round;
+	    line-opacity: 0.4;
+	    }
+	  [zoom=10]{
+	    polygon-opacity: 0.5;
+	    line-color: #af78d1;
+	    line-width: 1;
+	    line-join: round;
+	    line-opacity: 0.6;
+	    }
+	   [zoom=11]{
+	    polygon-opacity: 0.5;
+	    line-color: #af78d1;
+	    line-width: 1;
+	    line-join: round;
+	    line-opacity: 0.8;
+	    }
+	  }
+---
 
 ### HUMAN IMPACT
 1. _Marine Protected Areas_ - ekuatorial.marine-protected-areas
